@@ -13,7 +13,7 @@ chef: yottam ottolenghi
 
 This was my go-to side for a few months, working well with pretty much anything else on the table. There’s also enough going on, flavour-wise, for it to be lovely as it is, as a main. Peeling so many garlic cloves won’t win me any “simple” brownie points, I know, but once done, the simple joy of this dish is that the rice is baked in the oven rather than cooked on the stove. For those who find creating perfectly cooked rice in a pan of simmering water strangely difficult, this will be a revelation. Just make sure the foil is sealed tightly over the dish—you don’t want any steam to escape in the oven.
 
-## Ingredients
+### Ingredients
 * 800gm cherry tomatoes
 * 12 large garlic cloves (or 25 small), peeled (2/3 cup)
 * 4 large shallots, peeled and cut into 1-1/4-inch pieces (1 cup)
@@ -25,7 +25,7 @@ This was my go-to side for a few months, working well with pretty much anything 
 * 1-1/2 cups basmati rice
 * 2-1/2 cups boiling water
 
-## Preparation
+### Preparation
 Preheat the oven to 175°C.
 
 Arrange the tomatoes, garlic, shallots, cilantro stems, thyme, and cinnamon sticks in a large high-sided casserole dish, about 8×12 inches. 
