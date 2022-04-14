@@ -6,4 +6,4 @@ title: Index
 
 ### Dinners
 * [Baked Rice with Confit Tomatoes and Garlic](Baked%20Rice%20with%20Confit%20Tomatoes%20and%20Garlic.md)
-* [[baked minty rice feta & pomegranate relish]]
+* [[Baked Minty Rice with Feta and Pomegranate Relish]]
