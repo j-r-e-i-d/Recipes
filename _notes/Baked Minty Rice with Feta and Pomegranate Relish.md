@@ -9,7 +9,7 @@ chef:
 ---
 [Baked Minty Rice with Feta and Pomegranate Relish Recipe](https://www.epicurious.com/recipes/food/views/baked-minty-rice-with-feta-and-pomegranate-relish)
 
-![[_images/Pasted image 20220414145723.png]]
+![Baked minty rice](_images/6bff393ae0dfa88da5abcce588d7dbe3.png)
 
 *6 servings*
 

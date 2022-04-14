@@ -9,7 +9,7 @@ chef: yottam ottolenghi
 ---
 [Baked Rice with Confit Tomatoes and Garlic](https://www.finecooking.com/recipe/baked-rice-with-confit-tomatoes-and-garlic)
 
-![](_images/44c99dc21f7745654a2c332ccae4f13e.jpg)
+![Baked rice with confit tomatoes & garlic](_images/44c99dc21f7745654a2c332ccae4f13e.jpg)
 
 This was my go-to side for a few months, working well with pretty much anything else on the table. There’s also enough going on, flavour-wise, for it to be lovely as it is, as a main. Peeling so many garlic cloves won’t win me any “simple” brownie points, I know, but once done, the simple joy of this dish is that the rice is baked in the oven rather than cooked on the stove. For those who find creating perfectly cooked rice in a pan of simmering water strangely difficult, this will be a revelation. Just make sure the foil is sealed tightly over the dish—you don’t want any steam to escape in the oven.
 
