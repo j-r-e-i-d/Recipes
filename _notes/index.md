@@ -6,3 +6,4 @@ title: Index
 
 ### Dinner
 * [[example one here]]
+* [[example two]]
