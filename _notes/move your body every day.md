@@ -1,4 +1,6 @@
 ---
+title: "Example Note"
+tags: [example]
 ---
 
 Move your body every day. Benefits include:
