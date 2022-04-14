@@ -7,7 +7,7 @@ tags: [dinner, side dish, yotam ottolenghi, vegetarian]
 cuisine:
 chef:
 ---
-# [Baked Minty Rice with Feta and Pomegranate Relish Recipe](https://www.epicurious.com/recipes/food/views/baked-minty-rice-with-feta-and-pomegranate-relish)
+[Baked Minty Rice with Feta and Pomegranate Relish Recipe](https://www.epicurious.com/recipes/food/views/baked-minty-rice-with-feta-and-pomegranate-relish)
 
 ![[_images/Pasted image 20220414145723.png]]
 
