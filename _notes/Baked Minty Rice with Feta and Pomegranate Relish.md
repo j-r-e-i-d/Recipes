@@ -25,11 +25,11 @@ chef:
 * Kosher salt, freshly ground pepper
 
 ## Rice and assembly:
-2 cups basmati rice
-4 tablespoons unsalted butter, cut into pieces
-3/4 teaspoons kosher salt
-10 mint sprigs
-8 ounces feta, sliced 1/4” thick
+* 2 cups basmati rice
+* 4 tablespoons unsalted butter, cut into pieces
+* 3/4 teaspoons kosher salt
+* 10 mint sprigs
+* 8 ounces feta, sliced 1/4” thick
 
 ### Pomegranate relish:
 
@@ -41,7 +41,4 @@ Toss walnuts, pomegranate seeds, olives, oil, mint, parsley, pomegranate molasse
 
 Combine rice, butter, and salt in a 13x9” baking dish, then pour in a scant 3 1/2 cups water; top with mint sprigs. Cover tightly with foil and bake until rice is tender and water is absorbed, 30–35 minutes. Remove from oven; pluck out mint. Fluff rice with a fork.
 
-Heat griiler. Arrange feta over rice. Broil until rice around edges of pan is browned and crisp and feta is starting to brown, 8–10 minutes. Spoon pomegranate relish over.
-
-### Ingredient info:
-Pomegranate molasses can be found at Middle Eastern markets, some supermarkets, and online.
+Heat griller. Arrange feta over rice. Grill until rice around edges of pan is browned and crisp and feta is starting to brown, 8–10 minutes. Spoon pomegranate relish over.
