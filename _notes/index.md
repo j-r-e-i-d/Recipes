@@ -10,7 +10,7 @@ title: Index
 
 
 #### New section below
-
+```
 {% for dinner in site.dinner %}
   <h3>
     <a href="{{ dinner.url }}">
@@ -18,3 +18,4 @@ title: Index
     </a>
   </h3>
 {% endfor %}
+```
