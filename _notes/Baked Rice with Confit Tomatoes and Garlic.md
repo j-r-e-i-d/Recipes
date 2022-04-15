@@ -7,6 +7,7 @@ collection: [dinner, side_dish, yottam ottolenghi, vegetarian]
 cuisine:
 chef: yottam ottolenghi
 image: 44c99dc21f7745654a2c332ccae4f13e.jpg
+tags: [dinner, side_dish, yottam ottolenghi, vegetarian]
 ---
 [Baked Rice with Confit Tomatoes and Garlic](https://www.finecooking.com/recipe/baked-rice-with-confit-tomatoes-and-garlic)
 

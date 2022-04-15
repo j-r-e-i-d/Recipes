@@ -6,6 +6,7 @@ origin_url: https://www.epicurious.com/recipes/food/views/baked-minty-rice-with-
 tags: [dinner, side dish, yotam ottolenghi, vegetarian]
 cuisine:
 chef:
+collection: [dinner, side dish, yotam ottolenghi, vegetarian]
 ---
 [Baked Minty Rice with Feta and Pomegranate Relish Recipe](https://www.epicurious.com/recipes/food/views/baked-minty-rice-with-feta-and-pomegranate-relish)
 

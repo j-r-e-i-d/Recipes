@@ -33,6 +33,9 @@ collections:
   notes:
     output: true
     permalink: /:slug
+  dinner:
+    output: true
+    permalink: /:slug
 
 defaults:
   - scope:
