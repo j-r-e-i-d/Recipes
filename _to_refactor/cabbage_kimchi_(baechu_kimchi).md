@@ -1,14 +1,13 @@
 ---
-creation date: 2021-10-21 18:04
-modification date: Thursday 27th January 2022 15:22:07
+alias: "Cabbage kimchi"
 origin_url: https://www.sbs.com.au/food/recipes/cabbage-kimchi-baechu-kimchi
 collection: component
 cuisine: korean
-chef: billy_law
+chef: "Billy Law"
 ---
 # [Cabbage kimchi (baechu kimchi)](https://www.sbs.com.au/food/recipes/cabbage-kimchi-baechu-kimchi)
 
-![](_attachments/3dd26cef2933855d9bf9142403f2d842.jpg)
+![](assets/3dd26cef2933855d9bf9142403f2d842.jpg)
 
 Almost every household in Korea will have a jar of cabbage kimchi sitting in the fridge or in an underground cellar, fermenting away. And every family will have their own closely guarded secret recipe for the best kimchi.
 

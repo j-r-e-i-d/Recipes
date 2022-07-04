@@ -33,7 +33,8 @@ title: Index
 * [[forgotten_cookies|Forgotten Cookies]]
 * 
 
-
+### Components
+* [[basic_japanese_dashi|Dashi]]
 
 
 #### New section below
