@@ -1,7 +1,8 @@
 ---
 origin_url: https://fanculamedia.wordpress.com/2018/07/12/tour-de-france-2018-stage-6-brest-to-mur-de-bretagne-guerledan-tarte-de-tomates-lardons-et-le-menez-hom-or-some-other-goats-cheese/
 collection: [dinner, lunch]
-cuisine: french
+cuisine: "french"
+alias: "Tarte de Tomates"
 chef: "Jonathan Harris-Bass"
 tags: [quiche]
 ---

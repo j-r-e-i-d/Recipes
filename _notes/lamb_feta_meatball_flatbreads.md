@@ -4,6 +4,7 @@ collection: [dinner, lunch]
 cuisine: ""
 chef: "Donna Hay"
 tags: [lamb]
+alias: "Lamb And Feta Meatball Flatbreads"
 ---
 # [Lamb And Feta Meatball Flatbreads](https://www.donnahay.com.au/recipes/lunch/lamb-and-feta-meatball-flatbreadsv)
 

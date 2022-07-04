@@ -3,6 +3,7 @@ origin_url: "https://www.sbs.com.au/food/recipes/shortcrust-pastry"
 collection: [baking]
 cuisine: ""
 chef: "Anneka Manning"
+alias: "Shortcrust Pastry"
 ---
 # [Shortcrust Pastry](https://www.sbs.com.au/food/recipes/shortcrust-pastry)
 Shortcrust pastry, when you have a good recipe, is one of the simplest and quickest pastries to make. Here, I've given lots of tips and direction about how to use and cook your pastry, as well as three great variations to use in a variety of both sweet and savoury tarts and pies.

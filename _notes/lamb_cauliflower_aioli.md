@@ -2,6 +2,7 @@
 origin_url: https://www.goodfood.com.au/recipes/lamb-chops-and-cauliflower-with-garlic-and-lemon-yoghurt-20200309-h1mecf
 collection: [dinner]
 cuisine:
+alias: "Lamb chops & cauliflower with garlic & lemon yoghurt"
 chef: "Adam Liaw"
 tags: [lamb]
 ---

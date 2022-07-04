@@ -2,7 +2,8 @@
 origin_url: "https://www.theguardian.com/food/2018/aug/24/anna-jones-sweetcorn-recipes"
 collection: [dinner]
 cuisine: ""
-chef: ""
+alias: "Corn & Cauliflower Chowder"
+chef: "Anna Jones"
 tags: [soup, vegetarian]
 ---
 # [Corn & Cauliflower Chowder](https://www.theguardian.com/food/2018/aug/24/anna-jones-sweetcorn-recipes)

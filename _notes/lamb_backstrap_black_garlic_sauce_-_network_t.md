@@ -1,6 +1,7 @@
 ---
 origin_url: "https://10play.com.au/masterchef/recipes/lamb-backstrap-with-black-garlic-sauce/r200326emdcj"
 collection: [dinner]
+alias: "Lamb Backstrap with Black Garlic Sauce"
 cuisine: ""
 chef: ""
 tags: [lamb]

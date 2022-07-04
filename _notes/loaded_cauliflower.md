@@ -4,6 +4,7 @@ collection: [side_dish]
 cuisine: ""
 chef: "Adam Liaw"
 tags: []
+alias: "Loaded Cauliflower"
 ---
 # [Loaded cauliflower](https://www.goodfood.com.au/recipes/adam-liaws-loaded-cauliflower-20220523-h23yh9)
 ![]()

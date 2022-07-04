@@ -4,6 +4,7 @@ collection: [dinner]
 cuisine: "French"
 chef: "Anneka Manning"
 tags: [pie]
+alias: "Quiche Lorraine"
 ---
 # [Quiche Lorraine](https://www.sbs.com.au/food/recipes/anneka-mannings-quiche-lorraine)
 
