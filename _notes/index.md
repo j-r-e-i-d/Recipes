@@ -34,6 +34,7 @@ title: Index
 * 
 
 ### Components
+* [[cabbage_kimchi_(baechu_kimchi)|Cabbage kimchi]]
 * [[basic_japanese_dashi|Dashi]]
 
 

@@ -1,6 +1,4 @@
 ---
-creation date: 2022-01-26 16:38
-modification date: Wednesday 26th January 2022 16:38:38
 origin_url: https://www.thesaturdaypaper.com.au/food/side-dish/2021/09/30/cabbage-cream-with-cabbage-parmesan-and-toasted-buckwheat/163067760012381
 collection: side_dish
 cuisine:
