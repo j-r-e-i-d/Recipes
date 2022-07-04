@@ -2,6 +2,7 @@
 origin_url: "https://www.donnahay.com.au/recipes/dinner/beef-and-lamb/baked-lamb-and-oregano-meatballs"
 collection: [dinner]
 cuisine: ""
+alias: "Baked Lamb And Oregano Meatballs"
 chef: "Donna Hay"
 tags: [lamb]
 ---

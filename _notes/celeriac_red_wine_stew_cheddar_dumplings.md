@@ -2,10 +2,11 @@
 origin_url: "https://www.nigella.com/recipes/guests/celeriac-and-red-wine-stew-with-cheddar-dumplings"
 collection: [dinner]
 cuisine: ""
+alias: "Celeriac and Red Wine Stew With Cheddar Dumplings"
 chef: "Anna Jones"
 tags: [vegetarian]
 ---
-# [CELERIAC AND RED WINE STEW WITH CHEDDAR DUMPLINGS](https://www.nigella.com/recipes/guests/celeriac-and-red-wine-stew-with-cheddar-dumplings)
+# [Celeriac and Red Wine Stew With Cheddar Dumplings](https://www.nigella.com/recipes/guests/celeriac-and-red-wine-stew-with-cheddar-dumplings)
 ![[../assets/Pasted image 20220703144204.png]]
 
 Celeriac is a bit of a beast to look at, but looks aren't everything. Beneath that gnarly, knobbly exterior lies creamy white flesh with a sweet, nutty, super-savoury flavour. We eat it raw, in thin shavings, in salads with a mustardy dressing, roasted whole. Here, though, I use it as the base for a stew with some Cheddar-spiked dumplings on top. Food for dark evenings with red wine. Be sure to peel your celeriac thickly to get rid of any green tinges around the edge and any leftover muddy traces.
