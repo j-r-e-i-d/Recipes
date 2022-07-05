@@ -1,10 +1,7 @@
 ---
-layout: recipe
-alias: Chocolate raspberry pavlova
+alias: "Chocolate raspberry pavlova"
 image: "0312a4eabb5ac5a3b69a291ed30874df.jpg"
 tags: 
-creation date: 2021-09-21 13:44
-modification date: Thursday 27th January 2022 15:35:52
 origin_url: "https://www.nigella.com/recipes/chocolate-raspberry-pavlova"
 collection: "dessert"
 cuisine:
