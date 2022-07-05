@@ -3,6 +3,7 @@ title: Index
 ---
 
 ### Meals
+* [[grilled_lamb_shoulder|Alison Roman's Grilled lamb shoulder]]
 * [[baked_minty_rice_feta_pomegranate_relish|Baked Minty Rice with Feta and Pomegranate Relish]]
 * [[baked_rice_confit_tomatoes_garlic|Baked Rice with Confit Tomatoes and Garlic]]
 * [[baked_lamb_oregano_meatballs|Baked Lamb And Oregano Meatballs]]
@@ -32,6 +33,7 @@ title: Index
 * 
 
 ### Components
+* [[aioli|Aioli]]
 * [[cabbage_kimchi_(baechu_kimchi)|Cabbage kimchi]]
 * [[basic_japanese_dashi|Dashi]]
 

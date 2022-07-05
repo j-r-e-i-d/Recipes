@@ -1,9 +1,7 @@
 ---
-creation date: 2021-09-20 17:40
-modification date: Thursday 20th January 2022 15:23:49
 origin_url: "https://www.goodfood.com.au/eat-out/news/alison-romans-spring-fling-20191024-h1j3oj"
 collection: "dinner"
-title: "Alison Roman's Grilled lamb shoulder"
+alias: "Alison Roman's Grilled lamb shoulder"
 image: dde2a3c4f78aac57fb50efc6b7dfd7cb%201.jpg
 cuisine:
 chef: "Alison Roman"
