@@ -28,6 +28,7 @@ title: Index
 * 
 * [[breakfast_crumble_w_cherries_&_yoghurt|Breakfast crumble with cherries and yoghurt]]
 * [[cilbir|Cilbir]]
+* [[cilbir_turkish_eggs|Turkish Eggs/Cilbir]]
 * [[dutch_baby_bananas_&_berries|Dutch baby with bananas & berries]]
 * [[eggs_in_purgatory|Shakshuka]]
 
