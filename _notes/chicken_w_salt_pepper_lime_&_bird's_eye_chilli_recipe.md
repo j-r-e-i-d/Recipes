@@ -4,10 +4,11 @@ collection: [dinner]
 cuisine:
 chef: neil_perry
 tags:
+alias: "Chicken with salt pepper lime and bird's eye chilli"
 ---
 # [Chicken with salt, pepper, lime and bird's eye chilli](https://www.goodfood.com.au/recipes/chicken-with-salt-pepper-lime-and-birds-eye-chilli-recipe-20170411-gvio31)
 
-![Chicken with salt, pepper, lime and bird's eye chilli](_attachments/0981b990e0d27f04a71ee3c0854fa61e.jpg)
+![Chicken with salt, pepper, lime and bird's eye chilli](assets/0981b990e0d27f04a71ee3c0854fa61e.jpg)
 
 Time: 30 mins - 1 hour
 *Serves: 4*

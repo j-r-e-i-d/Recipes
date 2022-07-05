@@ -1,6 +1,4 @@
 ---
-creation date: 2021-09-21 13:44
-modification date: Thursday 27th January 2022 15:33:49
 origin_url: https://www.goodfood.com.au/recipes/chilled-apricot-creme-caramel-pudding-recipe-20180206-h0uf1o
 image: a24dae62a274eefd8ab12a4e29dc0654%201.jpg
 alias: Chilled apricot puddings

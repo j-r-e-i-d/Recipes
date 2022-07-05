@@ -13,6 +13,7 @@ title: Index
 * [[celeriac_red_wine_stew_cheddar_dumplings|Celeriac and Red Wine Stew With Cheddar Dumplings]]
 * [[chicken_braised_w_mushroom_&_thyme|Chicken braised with mushroom & thyme]]
 * [[chicken_breast_w_garlic_&_black_bean_dressing|Chicken breast with garlic & black bean dressing]]
+* [[chicken_w_salt_pepper_lime_&_bird's_eye_chilli_recipe|Chicken with salt pepper lime and bird's eye chilli]]
 * [[corn_cauliflower_chowder|Corn & Cauliflower Chowder]]
 * [[lamb_backstrap_black_garlic_sauce_-_network_t|Lamb Backstrap with Black Garlic Sauce]]
 * [[lamb_cauliflower_aioli|Lamb chops & cauliflower with garlic & lemon yoghurt]]
