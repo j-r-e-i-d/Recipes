@@ -2,7 +2,7 @@
 creation date: 2022-03-16 08:44
 modification date: Wednesday 16th March 2022 08:44:59
 origin_url: https://www.thesaturdaypaper.com.au/food/2020/06/30/pierogi/15925752009989
-collection: dinner
+collection: [dinner]
 cuisine: Polish
 chef: Annie Smithers
 tags:

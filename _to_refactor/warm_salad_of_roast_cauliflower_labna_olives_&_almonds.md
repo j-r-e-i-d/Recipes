@@ -2,7 +2,7 @@
 creation date: 2021-07-15 20:34
 modification date: Sunday 20th February 2022 18:35:38
 origin_url: https://www.goodfood.com.au/recipes/warm-salad-of-roast-cauliflower-labna-olives-and-almonds-20150621-3y5cv
-collection: dinner
+collection: [dinner]
 cuisine: "middle easat"
 chef: "neil perry"
 alias: Warm salad of roast cauliflower, labna, olives and almonds

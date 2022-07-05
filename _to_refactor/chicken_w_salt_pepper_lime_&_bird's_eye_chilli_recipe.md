@@ -1,8 +1,6 @@
 ---
-creation date: 2021-11-01 13:16
-modification date: Thursday 27th January 2022 15:31:32
 origin_url: https://www.goodfood.com.au/recipes/chicken-with-salt-pepper-lime-and-birds-eye-chilli-recipe-20170411-gvio31
-collection: dinner
+collection: [dinner]
 cuisine:
 chef: neil_perry
 tags:

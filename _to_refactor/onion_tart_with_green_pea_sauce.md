@@ -2,7 +2,7 @@
 creation date: 2022-02-13 17:31
 modification date: Sunday 13th February 2022 17:31:02
 origin_url: https://www.thesaturdaypaper.com.au/food/2021/10/31/elizabeth-davids-onion-tart-with-green-pea-sauce/163369800012614
-collection: dinner
+collection: [dinner]
 cuisine: french
 chef: Elizabeth David
 tags: vegetarian,

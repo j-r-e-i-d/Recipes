@@ -4,7 +4,7 @@ modification date: Thursday 10th February 2022 14:42:57
 origin_url: https://fotokulinarnie.pl/przepisy/zapiekanka-makaronowa-z-miesem-mielonym-i-brokulami
 alias: Pasta Casserole With Minced Meat and Broccol
 image: pasta_minced_meat_and_broccolli.jpg
-collection: dinner
+collection: [dinner]
 cuisine: polish
 chef: Katarzyna Anders
 tags: 

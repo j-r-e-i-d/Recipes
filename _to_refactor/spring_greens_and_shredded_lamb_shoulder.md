@@ -2,7 +2,7 @@
 creation date: 2022-01-26 18:37
 modification date: Wednesday 26th January 2022 18:37:06
 origin_url: https://www.thesaturdaypaper.com.au/food/dinner/2021/09/30/spring-greens-and-shredded-lamb-shoulder/163188720012474
-collection: dinner
+collection: [dinner]
 cuisine:
 chef: Annie Smithers
 tags: lamb

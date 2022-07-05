@@ -2,7 +2,7 @@
 creation date: 2022-01-12 20:39
 modification date: Wednesday 12th January 2022 20:42:33
 origin_url: https://www.sbs.com.au/food/recipes/pub-style-salt-and-pepper-squid
-collection: dinner
+collection: [dinner]
 cuisine: asian
 chef: adam_liaw
 ---
