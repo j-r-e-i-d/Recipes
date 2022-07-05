@@ -1,7 +1,6 @@
 ---
 title: Index
 ---
-
 # Jon's Recipe Collection
 
 ### Meals
