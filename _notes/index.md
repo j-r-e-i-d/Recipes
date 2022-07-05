@@ -1,7 +1,6 @@
 ---
 title: Index
 ---
-# Jon's Recipe Collection
 
 ### Meals
 * [[baked_minty_rice_feta_pomegranate_relish|Baked Minty Rice with Feta and Pomegranate Relish]]
