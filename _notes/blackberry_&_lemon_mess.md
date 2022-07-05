@@ -8,7 +8,7 @@ chef:
 tags: [supper]
 ---
 # [Blackberry & Lemon Mess](https://www.bbcgoodfood.com/recipes/blackberry-lemon-mess)
-![Blackberry & Lemon Mess](../assets/fb0873c0d6a0334b014c8cdf251f80ff.webp)
+![[../assets/Pasted image 20220705222306.png]]
 *Serves 6*
 
 ## Ingredients
