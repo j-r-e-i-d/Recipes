@@ -17,6 +17,8 @@ title: Index
 * [[tarte_de_tomates_lardons_et_le_ménez_hom_(or_som|Tarte de Tomates]]
 
 ### Breakfasts
+* [[apple_racuchy|Apple racuchy]]
+* 
 * [[breakfast_crumble_w_cherries_&_yoghurt|Breakfast crumble with cherries and yoghurt]]
 * [[dutch_baby_bananas_&_berries|Dutch baby with bananas & berries]]
 * [[eggs_in_purgatory|Shakshuka]]
