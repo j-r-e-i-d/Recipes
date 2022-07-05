@@ -4,7 +4,7 @@ title: Index
 # Jon's Recipe Collection
 
 ### Meals
-* [[baked_minty_rice_feta_pomegranate_relish]]
+* [[baked_minty_rice_feta_pomegranate_relish|Baked Minty Rice with Feta and Pomegranate Relish]]
 * [[baked_rice_confit_tomatoes_garlic]]
 * [[baked_lamb_oregano_meatballs|Baked Lamb And Oregano Meatballs]]
 * [[celeriac_red_wine_stew_cheddar_dumplings|Celeriac and Red Wine Stew With Cheddar Dumplings]]

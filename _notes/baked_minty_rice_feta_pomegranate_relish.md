@@ -1,5 +1,5 @@
 ---
-title: "Baked Minty Rice with Feta and Pomegranate Relish"
+alias: "Baked Minty Rice with Feta and Pomegranate Relish"
 creation date: 2021-09-21 17:50
 modification date: Thursday 20th January 2022 15:38:05
 origin_url: https://www.epicurious.com/recipes/food/views/baked-minty-rice-with-feta-and-pomegranate-relish

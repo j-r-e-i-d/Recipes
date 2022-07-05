@@ -1,5 +1,5 @@
 ---
-title: "Baked Rice with Confit Tomatoes and Garlic"
+alias: "Baked Rice with Confit Tomatoes and Garlic"
 creation date: 2021-09-21 11:07
 modification date: Thursday 20th January 2022 15:40:15
 origin_url: https://www.finecooking.com/recipe/baked-rice-with-confit-tomatoes-and-garlic
