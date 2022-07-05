@@ -8,6 +8,7 @@ title: Index
 * [[baked_rice_confit_tomatoes_garlic|Baked Rice with Confit Tomatoes and Garlic]]
 * [[baked_lamb_oregano_meatballs|Baked Lamb And Oregano Meatballs]]
 * [[barbecued_squid_&_macadamia_tarator|Barbecued squid and macadamia tarator]]
+* [[beef_cheek_&_dark_beer_ragu|Beef cheek & dark beer ragu]]
 * [[celeriac_red_wine_stew_cheddar_dumplings|Celeriac and Red Wine Stew With Cheddar Dumplings]]
 * [[corn_cauliflower_chowder|Corn & Cauliflower Chowder]]
 * [[lamb_backstrap_black_garlic_sauce_-_network_t|Lamb Backstrap with Black Garlic Sauce]]
@@ -33,6 +34,7 @@ title: Index
 ### Cakes
 * [[amalfi_lemon_bay_leaf_&_olive_oil_cake|Amalfi lemon & olive oil cake]]
 * [[autumnal_birthday_cake|Autumnal birthday cake]]
+* [[bitter_orange_tart|Bitter Orange tart]]
 
 ### Desserts
 * [[baked_custard_w_roast_rhubarb|Baked custard with roast rhubarb]]

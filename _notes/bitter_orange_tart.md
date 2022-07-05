@@ -1,28 +1,26 @@
 ---
-creation date: 2022-02-19 11:08
-modification date: Saturday 19th February 2022 11:08:08
 origin_url: https://www.nigella.com/recipes/bitter-orange-tart
-collection: dessert
+collection: [dessert]
 cuisine: 
-chef: nigella
-alias: Bitter Orange tart
+chef: Nigella
+alias: "Bitter Orange tart"
 image: bitterorangetart.jpg
 ---
 Although I make the most of the Seville orange season (December to February), that bitter orange taste is too good to forsake during the long months that Seville oranges are not about. Then I simply try to recreate their floral sharpness by using regular orange and lime juices in something approximating a 2:1 ratio. If you want to do the same, then use 60ml / ¼ cup lime juice (from 2-3 limes) and 140ml / ½ cup plus 1 tablespoon orange juice (from 1 large or 2 medium oranges).
 
 I have to say, that when Seville oranges are in season, this tart looks like a disc of winter sunshine on the plate – and tastes like it, too. I must also add that the curd is just as fabulous spread over toasted crumpets or proper white bread.
 
+![Bitter Orange Tart](../assets/bitterorangetart.jpg)
+
 *Yields: 10-14 slices*
 
 ## Ingredients
 
 **for the base**
-
 -   250 grams gingernut biscuits or plain ginger biscuits/cookies
 -   75 grams soft unsalted butter
 
 **for the curd filling**
-
 -   3 large eggs
 -   2 egg yolks
 -   100 grams caster sugar
@@ -30,7 +28,6 @@ I have to say, that when Seville oranges are in season, this tart looks like a d
 -   150 grams soft unsalted butter (cut into 1cm / ½-inch cubes)
 
 **to serve**
-
 -   good runny honey
 
 ## Method
