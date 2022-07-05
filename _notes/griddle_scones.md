@@ -4,7 +4,7 @@ collection: breakfast
 cuisine: "Welsh"
 chef: "Annie Smithers"
 alias: "Griddle Scones"
-image: griddle_sone.jpg
+image: griddle_scone.jpg
 ---
 The dough for these scones is pretty standard: rub the butter into flour augmented with a raising agent, then add a little milk and roll out. Here I use a combination of cream of tartar and baking soda, so it is a bit less zingy on the tongue. Then instead of being cooked in the oven, like a normal scone, they are cooked on a heavy griddle or in a heavy cast-iron pan. This gives them a wonderful crisp, golden and slightly buttery outside that is absolutely delicious.
 
