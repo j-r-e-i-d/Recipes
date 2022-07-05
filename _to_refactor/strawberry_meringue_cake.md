@@ -2,7 +2,7 @@
 creation date: 2022-01-19 15:18
 modification date: Wednesday 19th January 2022 15:18:10
 origin_url: https://www.thesaturdaypaper.com.au/food/dessert/2021/01/31/strawberry-meringue-cake/161192520010998
-collection: cake
+collection: [cake]
 cuisine: 
 chef: Annie Smithers
 ---

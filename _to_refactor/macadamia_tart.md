@@ -2,7 +2,7 @@
 creation date: 2021-09-21 13:44
 modification date: Sunday 6th February 2022 11:39:24
 origin_url: https://www.thesaturdaypaper.com.au/2020/07/31/macadamia-nut-tart/159499440010126
-collection: dessert
+collection: [dessert]
 cuisine:
 chef: "Annie Smithers"
 ---

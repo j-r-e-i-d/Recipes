@@ -4,7 +4,7 @@ modification date: Thursday 10th February 2022 11:59:30
 origin_url: https://fotokulinarnie.pl/przepisy/tort-bezowy-dacquoise-daktylowo-orzechowy
 alias: Dacquoise Date and Nut Meringue Cake
 image: dacquoise_date_and_nut_meringue_cake.jpg
-collection: cakes
+collection: [cake]s
 cuisine: polish
 chef: 
 ---

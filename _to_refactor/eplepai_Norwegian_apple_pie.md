@@ -3,7 +3,7 @@ creation date: 2021-04-18 12:08
 modification date: Saturday 5th February 2022 13:35:03
 origin_url: https://www.sbs.com.au/food/recipes/norwegian-apple-pie-eplepai
 alias: epplepai - Norwegian apple pie
-collection: dessert
+collection: [dessert]
 image: applepai.jpg
 cuisine:
 chef: Anneka Manning

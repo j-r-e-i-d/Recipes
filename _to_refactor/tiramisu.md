@@ -2,7 +2,7 @@
 creation date: 2022-03-16 08:42
 modification date: Wednesday 16th March 2022 08:42:05
 origin_url: https://www.thesaturdaypaper.com.au/food/2020/10/31/tiramisu/160285320010556
-collection: dessert
+collection: [dessert]
 cuisine: Italian
 chef: David Moyle
 alias: Tiramisu

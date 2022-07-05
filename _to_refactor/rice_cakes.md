@@ -2,7 +2,7 @@
 creation date: 2021-12-13 18:20
 modification date: Wednesday 19th January 2022 16:18:54
 origin_url:
-collection: sweet_snack
+collection: [sweet snack]
 cuisine:
 ---
 # Rice Cakes

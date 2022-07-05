@@ -1,7 +1,7 @@
 ---
 alias: "Prue's blueberry bake"
 origin_url: https://www.goodfood.com.au/recipes/prues-blueberry-bake-20111018-29utd
-collection: cake
+collection: [cake]
 cuisine:
 chef: Brigette Hafner
 

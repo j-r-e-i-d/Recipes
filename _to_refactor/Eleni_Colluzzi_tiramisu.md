@@ -1,7 +1,7 @@
 ---
 origin_url:
 image: tiramisu.jpg
-collection: dessert
+collection: [dessert]
 cuisine: italian
 chef: Eleni Colluzi
 alias: "Eleni Coluzzi’s Tiramisu"
