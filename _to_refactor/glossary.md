@@ -1,0 +1,3 @@
+# Glossary
+
+* **Coulis** - A **coulis** ([/kuːˈliː/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English") [_koo-LEE_](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key "Help:Pronunciation respelling key")) is a form of thin [sauce](https://en.wikipedia.org/wiki/Sauce "Sauce") made from [puréed](https://en.wikipedia.org/wiki/Pur%C3%A9e "Purée") and strained [vegetables](https://en.wikipedia.org/wiki/Vegetable "Vegetable") or [fruits](https://en.wikipedia.org/wiki/Fruit "Fruit"). A vegetable coulis is commonly used on meat and vegetable dishes, and it can also be used as a base for [soups](https://en.wikipedia.org/wiki/Soup "Soup") or other sauces. Fruit coulis are most often used on [desserts](https://en.wikipedia.org/wiki/Dessert "Dessert").

@@ -1,0 +1,21 @@
+# Nigella's Better Bread
+[Source](https://food52.com/blog/26144-nigella-lawson-secret-to-better-bread)
+
+![](assets/c8415a334ecc176d4ece9e6c489017c2.jpg)
+
+
+Starchy water. We know by now to always save at least a ladleful of that cloudy, well-salted liquid after boiling a pot of pasta, an ingredient necessary for transforming a skillet of melted fat and beaten eggs into silky carbonara, or for seamlessly melting grated Parmesan into creamy vodka sauce so the mixture becomes a proper emulsion, nary a cheese clump in sight. And what about the water used for boiling potatoes? I’ll never forget a line in Laura Ingalls Wilder’s *The Long Winter*: “There was no milk but Ma said, ‘leave a very little of the boiling water in, and after you mash them beat them extra hard with a big spoon.’ The potatoes turned out white and fluffy.” I haven’t made mashed potatoes with milk since—just butter and starchy water.
+
+The point is clear: Be it science or magic, that cloudy water left over from boiling pasta or potatoes holds the key to a lot of deliciousness. And where there is deliciousness, there is usually also the work of Nigella Lawson.
+
+“In considering the elemental enjoyment of eating, I have to start with bread,” writes Nigella Lawson in her new cookbook, *[Cook, Eat, Repeat.](https://amzn.to/3ar0PNo)* “In life, there can be no pleasure without *pain.*” This observation is key (and much less intense if you’re familiar with French). One of the most popular bread recipes out there, observes Lawson, is Jim Lahey’s No-Knead Bread. With all-purpose flour (no need to buy fancy rye or spelt), instant yeast (no finicky starters required), and, well, no kneading (duh), it couldn’t be more straightforward. And no one loves straightforward, no-nonsense, *they-just-work* recipes more than Lawson. Which is why *Cook, Eat, Repeat* features an adaptation of Lahey’s recipe, with one major, starchy tweak. Instead of plain water in the dough mix, Lawson suggests using pasta or potato-cooking water.
+
+“I had experimented in a much earlier book (my second, [*How to Be a Domestic Goddess,*] published a couple of decades ago) with using potato-cooking water (which led me to try using pasta-cooking water, which also works well),” Lawson shared in an email. “But until I started using Jim Lahey’s no-knead Method, I had largely forgotten about it. But I tried it again, and was bowled away about the springiness it gave to the loaf and how much longer it kept it fresh.”
+
+Lawson likens the addition of starchy water to bread dough to [tangzhong](https://food52.com/recipes/30962-hokkaido-milk-bread), the romanized Chinese term (roughly translating to “water roux”) for a bread-making technique similar to Japanese yudane, both of which involve a slurry or paste of cooked or heated flour and water or milk—hence the common catchall term for these loaves, [milk bread](https://food52.com/recipes/39343-kindred-s-milk-bread). Once heated to a certain temperature (even if cooled after), flour’s starch gelatinizes, creating a fluffier, more tender bread than the average country loaf, qualities that are more typically found in enriched doughs, like brioche or challah. Lawson found that adding starchy water to raw flour in a dough mix imitates the products of this technique.
+
+Formally, Lawson’s adaptation of Lahey’s recipe calls for cold tap water and a tablespoon of lemon juice, and she explains in the recipe’s headnotes that when she first started playing around with this recipe, she began making the acidic addition to assist with the rise. However, subbing in last night’s pasta- or potato-cooking water (and reducing the amount of salt in the dough mix) cancels the need for lemon juice. And you don’t even have to think that far ahead: Just save the water post-cook—in an email, Lawson noted that “if you keep the starchy water in the fridge, it will be good for five days.”
+
+And if you have neither starchy water nor lemon juice? Of course, Lawson has yet another solution for pillowy loaves, which you may happen to have in the back of your pantry already: instant mashed potato powder. Now *that* I have to try.
+- - - -
+#recipe/baking #recipe/bread
