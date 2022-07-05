@@ -1,9 +1,10 @@
 ---
 origin_url: https://www.goodfood.com.au/recipes/neil-perrys-slowbraised-lamb-shoulder-with-aioli-20190416-h1djgx
-collection: side
+collection: [side]
 cuisine:
-chef: "neil perry"
-tags: bbq, meat
+chef: "Neil Perry"
+tags: [bbq, meat]
+alias: Aioli
 ---
 # [Aioli](https://www.goodfood.com.au/recipes/neil-perrys-slowbraised-lamb-shoulder-with-aioli-20190416-h1djgx)
 ![Aioli](assets/1555390777288.jpg)
