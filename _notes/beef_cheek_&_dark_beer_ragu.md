@@ -1,9 +1,10 @@
 ---
 origin_url: https://www.sbs.com.au/food/recipes/beef-cheek-and-dark-beer-ragu
-collection: dinner
-cuisine: australian
-chef: "adam liaw"
-tags: beef, pie
+collection: [dinner]
+cuisine: "australian"
+chef: "Adam Liaw"
+tags: [beef, pie]
+alias: "Beef cheek & dark beer ragu"
 ---
 # [Beef cheek & dark beer ragu](https://www.sbs.com.au/food/recipes/beef-cheek-and-dark-beer-ragu)
 
