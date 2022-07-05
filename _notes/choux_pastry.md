@@ -3,7 +3,7 @@ origin_url: "https://www.thesaturdaypaper.com.au/2021/10/31/comte-choux/16355124
 collection: "baking"
 alias: "Choux pastry"
 cuisine: "French"
-chef: "annie smithers"
+chef: "Annie Smithers"
 ---
 # [Choux pastry](https://www.thesaturdaypaper.com.au/2021/10/31/comte-choux/163551240012754)
 
