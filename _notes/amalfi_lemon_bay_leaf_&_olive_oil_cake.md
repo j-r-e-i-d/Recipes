@@ -1,9 +1,8 @@
 ---
-creation date: 2021-09-21 13:44
-modification date: Thursday 20th January 2022 15:29:52
 origin_url: "https://www.theguardian.com/food/2019/mar/16/lemon-recipes-lemon-hibiscus-sorbet-barley-risotto-yotam-ottolenghi"
 collection: "cake"
-cuisine:
+cuisine: "Italian"
+alias: "Amalfi lemon & olive oil cake"
 chef: "Yotam Ottolenghi"
 ---
 # [Amalfi lemon, bay leaf and olive oil cake](https://www.theguardian.com/food/2019/mar/16/lemon-recipes-lemon-hibiscus-sorbet-barley-risotto-yotam-ottolenghi)
