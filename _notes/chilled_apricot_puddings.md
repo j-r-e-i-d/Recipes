@@ -1,12 +1,14 @@
 ---
 origin_url: https://www.goodfood.com.au/recipes/chilled-apricot-creme-caramel-pudding-recipe-20180206-h0uf1o
 image: a24dae62a274eefd8ab12a4e29dc0654%201.jpg
-alias: Chilled apricot puddings
-collection: dessert
+alias: "Chilled apricot puddings"
+collection: [dessert]
 cuisine:
-chef: adam_liaw
+chef: "Adam Liaw"
 ---
+# [Chilled apricot puddings](https://www.goodfood.com.au/recipes/chilled-apricot-creme-caramel-pudding-recipe-20180206-h0uf1o)
 
+![Chilled apricot puddings](assets/a24dae62a274eefd8ab12a4e29dc0654.jpg)
 A set custard is always a crowd pleaser. If you're worried about turning this out as a set dessert (like creme caramel), skip that step. They're just as good – and just as good-looking – when served in an attractive ramekin.
 
 ## Ingredients
