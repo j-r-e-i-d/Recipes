@@ -5,7 +5,7 @@ origin_url: https://www.goodfood.com.au/recipes/neil-perrys-slowbraised-lamb-sho
 collection: dinner
 cuisine: australian
 chef: "neil perry"
-tags: lamb, roast
+tags: [lamb, roast]
 ---
 # [Neil Perry's slow-braised lamb shoulder with aioli](https://www.goodfood.com.au/recipes/neil-perrys-slowbraised-lamb-shoulder-with-aioli-20190416-h1djgx)
 

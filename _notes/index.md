@@ -39,6 +39,7 @@ title: Index
 ### Desserts
 * [[baked_custard_w_roast_rhubarb|Baked custard with roast rhubarb]]
 * [[blackberry_&_lemon_mess|Blackberry & Lemon Mess]]
+* [[blackberry_galette|Blackberry Galette]]
 
 ### Sweet Snacks
 * [[almond_raspberry_slice|Almond Raspberry Slice]]
