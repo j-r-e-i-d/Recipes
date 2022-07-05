@@ -1,13 +1,13 @@
 ---
 origin_url: https://www.thesaturdaypaper.com.au/food/side-dish/2021/09/30/cabbage-cream-with-cabbage-parmesan-and-toasted-buckwheat/163067760012381
-collection: side_dish
+collection: [side_dish]
 cuisine:
-chef: O Tama Carey
-tags: vegetarian
+chef: "O Tama Carey"
+tags: [vegetarian]
 ---
 # [Cabbage cream with cabbage, parmesan and toasted buckwheat](https://www.thesaturdaypaper.com.au/food/side-dish/2021/09/30/cabbage-cream-with-cabbage-parmesan-and-toasted-buckwheat/163067760012381)
 
-![Cabbage cream with cabbage, parmesan and toasted buckwheat](_attachments/5197ce8bf4fa220df205cfde07bd8560.jpg)
+![Cabbage cream with cabbage, parmesan and toasted buckwheat](../assets/5197ce8bf4fa220df205cfde07bd8560.jpg)
 Back in the good old days, when you could move more than five kilometres and make plans in advance, we booked a holiday house for Christmas – 10 days by the beach with a smattering of overlapping friends. Our restaurants were closed, which meant any surplus produce became part of the packing, along with the already-ordered excessive amount of food. In among the stray bits were two-and-a-half cabbages, one red and the rest green.
 
 Upon arrival, the Tetris-like game of fitting that much food into one fridge began, with the sturdier items relegated to the laundry. And then the games began: whoever was on cooking duty had to include some form of cabbage dish as we attempted to consume all we had brought. There was a lot of barbecued cabbage and many fine salads – one with mint, chives and parmesan, dressed with olive oil and lemon, that became a staple on my then restaurant’s menu. The cabbages became part of our holiday, showing their versatility and longevity while living happily in a corner and still maintaining their dignity.

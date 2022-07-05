@@ -16,6 +16,7 @@ title: Index
 * [[lamb_feta_meatball_flatbreads|Lamb And Feta Meatball Flatbreads]]
 * [[loaded_cauliflower|Loaded Cauliflower]]
 * [[quiche_lorraine|Quiche Lorraine]]
+* [[braised_lamb_shoulder|Slow-braised lamb shoulder with aioli]]
 * [[tarte_de_tomates_lardons_et_le_ménez_hom_(or_som|Tarte de Tomates]]
 
 ### Breakfasts

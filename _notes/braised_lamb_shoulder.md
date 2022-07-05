@@ -1,10 +1,9 @@
 ---
-creation date: 2022-01-20 13:25
-modification date: Thursday 20th January 2022 13:25:41
+alias: "Slow-braised lamb shoulder with aioli"
 origin_url: https://www.goodfood.com.au/recipes/neil-perrys-slowbraised-lamb-shoulder-with-aioli-20190416-h1djgx
-collection: dinner
+collection: [dinner]
 cuisine: australian
-chef: "neil perry"
+chef: "Neil Perry"
 tags: [lamb, roast]
 ---
 # [Neil Perry's slow-braised lamb shoulder with aioli](https://www.goodfood.com.au/recipes/neil-perrys-slowbraised-lamb-shoulder-with-aioli-20190416-h1djgx)
