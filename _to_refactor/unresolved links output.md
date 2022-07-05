@@ -9,7 +9,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [assets/recipe-image-legacy-id-1066491_11-64cf678.jpg](assets/recipe-image-legacy-id-1066491_11-64cf678.jpg) in [blackberry_&_lemon_mess](_dessert/blackberry_&_lemon_mess.md)
 - [assets/2540.jpg](assets/2540.jpg) in [cardamom_custard_pancakes](cardamom_custard_pancakes.md)
 - [assets/7B0C6275-BA99-47CC-B133-EF9454B783F1.png](assets/7B0C6275-BA99-47CC-B133-EF9454B783F1.png) in [cashew_nut_chicken](cashew_nut_chicken.md)
-- [assets/62846AEC-50BD-4B66-8ABB-14901BA9987A.png](assets/62846AEC-50BD-4B66-8ABB-14901BA9987A.png) in [chicken_braised_w_mushroom_&_thyme](chicken_braised_w_mushroom_&_thyme.md)
+- [assets/62846AEC-50BD-4B66-8ABB-14901BA9987A.png](assets/62846AEC-50BD-4B66-8ABB-14901BA9987A.png) in [chicken_braised_w_mushroom_&_thyme](../_notes/chicken_braised_w_mushroom_&_thyme.md)
 - [assets/1519971062828.jpg](assets/0981b990e0d27f04a71ee3c0854fa61e.jpg) in [chicken_w_salt_pepper_lime_&_bird's_eye_chilli_recipe](chicken_w_salt_pepper_lime_&_bird's_eye_chilli_recipe.md)
 - [assets/1517875684108.jpg](assets/a24dae62a274eefd8ab12a4e29dc0654.jpg) in [chilled_apricot_puddings](_dessert/chilled_apricot_puddings.md)
 - [assets/2F50FFA1-E896-428D-8A1D-7B1342561173.png](assets/2F50FFA1-E896-428D-8A1D-7B1342561173.png) in [choux_pastry](_baking/choux_pastry.md)stry.md)

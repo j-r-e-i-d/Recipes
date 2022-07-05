@@ -1,15 +1,14 @@
 ---
-creation date: 2021-11-01 13:13
-modification date: Thursday 20th January 2022 15:26:21
 origin_url: https://www.goodfood.com.au/recipes/in-season/chicken-braised-with-mushroom-and-thyme-20150504-3vcpd
-collection: dinner
-cuisine: french
-chef: neil_perry
+collection: [dinner]
+cuisine: [French]
+chef: "Neil Perry"
 tags:
+alias: "Chicken braised with mushroom & thyme"
 ---
 # [Chicken braised with mushroom & thyme](https://www.goodfood.com.au/recipes/in-season/chicken-braised-with-mushroom-and-thyme-20150504-3vcpd)
 
-![](_attachments/c0d6a7849a33fcd3c17fbbcb8d37c1a9.jpg)
+![](../assets/c0d6a7849a33fcd3c17fbbcb8d37c1a9.jpg)
 
 *Serves: 4*
 

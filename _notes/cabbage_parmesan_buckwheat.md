@@ -1,4 +1,5 @@
 ---
+alias: "Cabbage cream with cabbage, parmesan and toasted buckwheat"
 origin_url: https://www.thesaturdaypaper.com.au/food/side-dish/2021/09/30/cabbage-cream-with-cabbage-parmesan-and-toasted-buckwheat/163067760012381
 collection: [side_dish]
 cuisine:
