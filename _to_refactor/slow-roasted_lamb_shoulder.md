@@ -6,7 +6,7 @@ collection: "dinner"
 cuisine: "australian"
 chef: "neil perry"
 tags: "lamb"
-title: "Slow-roasted lamb shoulder"
+alias: "Slow-roasted lamb shoulder"
 ---
 # [Slow-roasted lamb shoulder](https://www.goodfood.com.au/recipes/neil-perrys-slowroasted-lamb-shoulder-20210405-h1uyr0)
 

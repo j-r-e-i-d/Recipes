@@ -6,7 +6,7 @@ collection: dinner
 cuisine: french
 chef: Elizabeth David
 tags: vegetarian,
-title: Onion Tart With Green Pea Sauce
+alias: Onion Tart With Green Pea Sauce
 image: onion_tart.jpg
 ---
 

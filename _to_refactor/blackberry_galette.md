@@ -3,7 +3,7 @@ creation date: 2021-09-21 14:03
 modification date: Thursday 20th January 2022 13:28:53
 origin_url: https://www.nigella.com/recipes/blackberry-galette
 image: f678bbebb5ea48959f77b23389e9fa4a.jpg
-title: Blackberry Galette
+alias: Blackberry Galette
 collection: dessert
 cuisine:
 chef: nigella

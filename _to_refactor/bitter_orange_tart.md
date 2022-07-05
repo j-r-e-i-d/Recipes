@@ -5,7 +5,7 @@ origin_url: https://www.nigella.com/recipes/bitter-orange-tart
 collection: dessert
 cuisine: 
 chef: nigella
-title: Bitter Orange tart
+alias: Bitter Orange tart
 image: bitterorangetart.jpg
 ---
 Although I make the most of the Seville orange season (December to February), that bitter orange taste is too good to forsake during the long months that Seville oranges are not about. Then I simply try to recreate their floral sharpness by using regular orange and lime juices in something approximating a 2:1 ratio. If you want to do the same, then use 60ml / ¼ cup lime juice (from 2-3 limes) and 140ml / ½ cup plus 1 tablespoon orange juice (from 1 large or 2 medium oranges).

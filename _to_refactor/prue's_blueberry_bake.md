@@ -1,5 +1,5 @@
 ---
-title: "Prue's blueberry bake"
+alias: "Prue's blueberry bake"
 origin_url: https://www.goodfood.com.au/recipes/prues-blueberry-bake-20111018-29utd
 collection: cake
 cuisine:

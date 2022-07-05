@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Chocolate raspberry pavlova
+alias: Chocolate raspberry pavlova
 image: "0312a4eabb5ac5a3b69a291ed30874df.jpg"
 tags: 
 creation date: 2021-09-21 13:44

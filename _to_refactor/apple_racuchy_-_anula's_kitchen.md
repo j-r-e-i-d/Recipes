@@ -2,7 +2,7 @@
 creation date: 2021-09-21 14:03
 modification date: Thursday 20th January 2022 15:33:46
 origin_url: http://www.anulaskitchen.com/2013/10/polish-racuchy-with-apples.html
-title: Apple Racuchy - Anula's Kitchen
+alias: Apple Racuchy - Anula's Kitchen
 image: 31ac2398a3cc4061b6a0e7ec23bfa818%201.png
 collection: breakfast
 cuisine: polish

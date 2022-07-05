@@ -5,7 +5,7 @@ origin_url: https://www.thesaturdaypaper.com.au/food/2020/10/31/tiramisu/1602853
 collection: dessert
 cuisine: Italian
 chef: David Moyle
-title: Tiramisu
+alias: Tiramisu
 image: tiramisu2.jpg
 ---
 # Tiramisu

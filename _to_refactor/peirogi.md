@@ -6,7 +6,7 @@ collection: dinner
 cuisine: Polish
 chef: Annie Smithers
 tags:
-title: Pierogi
+alias: Pierogi
 image: pierogi.jpg
 ---
 # Pierogi

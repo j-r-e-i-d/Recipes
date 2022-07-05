@@ -4,7 +4,7 @@ image: tiramisu.jpg
 collection: dessert
 cuisine: italian
 chef: Eleni Colluzi
-title: "Eleni Coluzzi’s Tiramisu"
+alias: "Eleni Coluzzi’s Tiramisu"
 
 Ingredients:
 - 250 ml long black (espresso) coffee  

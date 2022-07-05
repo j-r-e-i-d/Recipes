@@ -4,7 +4,7 @@ modification date: Tuesday 25th January 2022 16:46:55
 origin_url: http://www.bent-street-kitchen.com/recipes-as-blog/2016/3/13/chocolatepav
 collection: dessert
 image: c6e49beba296438609104a24c82f202b.jpg
-title: Chocolate Pavlova
+alias: Chocolate Pavlova
 cuisine:
 chef: "nigella"
 ---

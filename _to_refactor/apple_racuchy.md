@@ -1,9 +1,7 @@
 ---
-creation date: 2021-03-02 14:03
-modification date: Thursday 20th January 2022 15:31:37
 origin_url: https://cookinpolish.com/apple-racuchy/
 image: 31ac2398a3cc4061b6a0e7ec23bfa818%201.png
-title: Apple racuchy
+alias: "Apple racuchy"
 collection: breakfast
 cuisine: polish
 chef:

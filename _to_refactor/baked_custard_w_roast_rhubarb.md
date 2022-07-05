@@ -3,7 +3,7 @@ creation date: 2021-09-21 13:44
 modification date: Thursday 20th January 2022 15:35:58
 origin_url: https://www.theguardian.com/food/2021/feb/27/ravneet-gills-recipe-for-baked-custard-roast-rhubarb
 image: 47ee17c3c21f450a72c4b4f006c13c32.jpg
-title: Baked custard with roast rhubarb
+alias: Baked custard with roast rhubarb
 collection: dessert
 cuisine:
 chef: ravneet gill
