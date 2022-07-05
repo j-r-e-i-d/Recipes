@@ -7,7 +7,7 @@ cuisine:
 chef: "Ravneet Gill"
 tags: [supper, sweets]
 ---
-
+# [Baked custard with roast rhubarb](https://www.theguardian.com/food/2021/feb/27/ravneet-gills-recipe-for-baked-custard-roast-rhubarb)
 
 ![](../assets/47ee17c3c21f450a72c4b4f006c13c32.jpg)
 Prep: 15 min

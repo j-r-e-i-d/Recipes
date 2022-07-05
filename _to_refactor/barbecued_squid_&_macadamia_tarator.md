@@ -1,9 +1,10 @@
 ---
 origin_url: https://www.sbs.com.au/food/recipes/barbecued-squid-and-macadamia-tarator
-collection: dinner
+collection: [dinner]
 cuisine:
-chef: "adam liaw"
-tags: seafood
+chef: "Adam Liaw"
+tags: [seafood]
+alias: "Barbecued squid and macadamia tarator"
 ---
 # [Barbecued squid and macadamia tarator](https://www.sbs.com.au/food/recipes/barbecued-squid-and-macadamia-tarator)
 
