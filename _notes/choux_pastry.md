@@ -1,6 +1,4 @@
 ---
-creation date: 2021-10-30 16:59
-modification date: Monday 7th February 2022 17:38:12
 origin_url: "https://www.thesaturdaypaper.com.au/2021/10/31/comte-choux/163551240012754"
 collection: "baking"
 alias "Choux pastry"
