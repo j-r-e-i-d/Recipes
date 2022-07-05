@@ -10,7 +10,8 @@ tags: [supper, dessert]
 
 Apple Racuchy are one of the favorite Polish suppers. Children love them and they are simple and easy to make. I don’t add sugar inside, so you can keep them low caloric or sprinkle Racuchy with lots of powder sugar. My Racuchy are crispy and fluffy, even though I don’t use yeast nor baking powder
 
-![Apple racuchy]
+![Apple racuchy](../assets/31ac2398a3cc4061b6a0e7ec23bfa818.png)
+
 ## Ingredients
 
 * 2 cups milk
