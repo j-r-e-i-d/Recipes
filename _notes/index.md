@@ -41,6 +41,7 @@ title: Index
 * [[autumnal_birthday_cake|Autumnal birthday cake]]
 * [[bitter_orange_tart|Bitter Orange tart]]
 * [[chocolate_pavlova|Chocolate Pavlova]]
+* [[chocolate_raspberry_pavlova|Chocolate raspberry pavlova]]
 
 ### Desserts
 * [[baked_custard_w_roast_rhubarb|Baked custard with roast rhubarb]]

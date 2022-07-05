@@ -1,6 +1,12 @@
-# Cilbir
-[Yotam Ottolenghi’s chilli butter recipes | Main course | The Guardian](https://www.theguardian.com/lifeandstyle/2017/jun/17/chilli-butter-recipes-cilbir-sumac-chicken-baked-eggs-chard-yotam-ottolenghi)
-![](_attachments/48cd0061b87836cd35df34603969dff5.jpg)
+---
+origin_url: "https://www.theguardian.com/lifeandstyle/2017/jun/17/chilli-butter-recipes-cilbir-sumac-chicken-baked-eggs-chard-yotam-ottolenghi"
+collection: "breakfast"
+cuisine: "Turkish"
+chef: "Yotam Ottolenghi"
+alias: "cilbir"
+---
+# [Cilbir](https://www.theguardian.com/lifeandstyle/2017/jun/17/chilli-butter-recipes-cilbir-sumac-chicken-baked-eggs-chard-yotam-ottolenghi)
+![Cilbir](assets/48cd0061b87836cd35df34603969dff5.jpg)
 This traditional Turkish breakfast is delicious even without the milk crumbs, but I’ve loved them since coming across them at the brilliant [Tulum in Melbourne](http://tulumrestaurant.com.au/). Bread, however, is a must, for mopping up. Eat this just warm, not piping hot.
 
 **Serves four**
