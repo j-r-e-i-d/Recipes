@@ -1,16 +1,14 @@
 ---
 alias: "Baked Minty Rice with Feta and Pomegranate Relish"
-creation date: 2021-09-21 17:50
-modification date: Thursday 20th January 2022 15:38:05
 origin_url: https://www.epicurious.com/recipes/food/views/baked-minty-rice-with-feta-and-pomegranate-relish
 tags: [dinner, side dish, yotam ottolenghi, vegetarian]
 cuisine:
-chef:
+chef: "Yotam Ottolenghi"
 collection: [dinner, side dish, yotam ottolenghi, vegetarian]
 ---
 [Baked Minty Rice with Feta and Pomegranate Relish Recipe](https://www.epicurious.com/recipes/food/views/baked-minty-rice-with-feta-and-pomegranate-relish)
 
-![Baked minty rice](../assets/6bff393ae0dfa88da5abcce588d7dbe3.png)
+![Baked minty rice](assets/6bff393ae0dfa88da5abcce588d7dbe3.png)
 
 *6 servings*
 
