@@ -31,6 +31,7 @@ title: Index
 
 ### Cakes
 * [[amalfi_lemon_bay_leaf_&_olive_oil_cake|Amalfi lemon & olive oil cake]]
+* [[autumnal_birthday_cake|Autumnal birthday cake]]
 ### Sweet Snacks
 * [[almond_raspberry_slice|Almond Raspberry Slice]]
 * [[forgotten_cookies|Forgotten Cookies]]
