@@ -1,11 +1,17 @@
-# Turkish Eggs/Cilbir
-[Turkish Eggs](http://www.nigella.com/recipes/turkish-eggs)
+---
+origin_url: "http://www.nigella.com/recipes/turkish-eggs"
+collection: "breakfast"
+cuisine: "Turkish"
+chef: "Nigella"
+alias: "Turkish Eggs/Cilbir"
+---
+# [Turkish Eggs/Cilbir](http://www.nigella.com/recipes/turkish-eggs)
 
 If I hadn’t eaten the Turkish eggs at Peter Gordon’s restaurant, The Providores, I most certainly wouldn’t be tempted by the idea of poached eggs on Greek yogurt. I say that only to pre-empt any hesitancy on your part. For çilbir, pronounced “chulburr”, is a revelation and a complete sensation.
 
 If you can’t get the Aleppo pepper, also known as pul biber or Turkish red pepper flakes, which has a mild, almost sweet heat and a distinctive lemoniness, you could substitute paprika, adding a pinch of dried chilli flakes. But, in these days of online grocery shopping, I’d encourage you to go for the real thing. This is the recipe that helped me overcome my fear of poaching eggs (see additional info below).
 
-![](_attachments/0d16a4fcec68f7d2a635c5d362d36c9d.jpg)
+![](attachments/0d16a4fcec68f7d2a635c5d362d36c9d.jpg)
 
 Photo by Jonathan Lovekin
 

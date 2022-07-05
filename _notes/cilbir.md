@@ -3,7 +3,7 @@ origin_url: "https://www.theguardian.com/lifeandstyle/2017/jun/17/chilli-butter-
 collection: "breakfast"
 cuisine: "Turkish"
 chef: "Yotam Ottolenghi"
-alias: "cilbir"
+alias: "Cilbir"
 ---
 # [Cilbir](https://www.theguardian.com/lifeandstyle/2017/jun/17/chilli-butter-recipes-cilbir-sumac-chicken-baked-eggs-chard-yotam-ottolenghi)
 
