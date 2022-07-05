@@ -1,15 +1,14 @@
 ---
-creation date: 2021-09-21 13:58
-modification date: Wednesday 26th January 2022 23:08:02
+alias: "Chicken breast with garlic & black bean dressing"
 origin_url: https://adamliaw.com/recipe/chicken-breast-with-garlic-and-black-bean-dressing/
-collection: dinner
+collection: [dinner]
 cuisine:
-chef: adam_liaw
-tags: chicken
+chef: "Adam Liaw"
+tags: [chicken]
 ---
 # [Chicken breast with garlic and black bean dressing](https://adamliaw.com/recipe/chicken-breast-with-garlic-and-black-bean-dressing/)
 
-[![](_attachments/43b835ded89fc838e58885042b7deab1.jpg)
+[![](../assets/43b835ded89fc838e58885042b7deab1.jpg)
 
 I use a steam oven to safely cook the chicken to 62C. (Holding it at that temperature for just 10 minutes will pasteurise it so that it’s entirely safe to eat.) If you don’t have a steam oven you can poach the chicken in water at a very, very low simmer (basically just steaming) for about 15 minutes.
 
