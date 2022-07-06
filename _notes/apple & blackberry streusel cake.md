@@ -1,11 +1,11 @@
 ---
-origin_url: "http://www.anulaskitchen.com/2014/11/polish-apple-cake-szarlotka.html"
+origin_url: "http://www.anulaskitchen.com/2014/03/apple-blackberry-streusel-cake-recipe.html"
 collection: [cake]
 cuisine: "Polish"
 chef: "Anula"
-alias: "Szarlotka"
+alias: "Apple & blackberry streusel cake"
 ---
-# [Szarlotka](http://www.anulaskitchen.com/2014/11/polish-apple-cake-szarlotka.html)
+# [Apple & blackberry streusel cake](http://www.anulaskitchen.com/2014/03/apple-blackberry-streusel-cake-recipe.html)
 
 ![Szarlotka](../assets/szarlotka.jpg)
 
