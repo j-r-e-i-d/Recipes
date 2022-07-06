@@ -1,29 +1,28 @@
-# Orange Ricotta Tart
+---
+origin_url: "https://www.goodfood.com.au/recipes/orange-ricotta-tart-20131028-2wb1t"
+collection: [dessert]
+cuisine: ""
+chef: "Neil Perry"
+alias: "Orange ricotta tart"
+---
+# [Orange Ricotta Tart]()
+
 ![](assets/143a09a8e60d90a82d2f67a72f462df2.png)
 *Serves 6 to 8*
 
 ## Ingredients
-350g plain flour
 
-250g unsalted butter
-
-60g caster sugar
-
-1 egg yolk, lightly whisked with 30g water filling
-
-1 large egg
-
-1 large egg yolk
-
-250g ricotta, drained
-
-75g icing sugar
-
-2 tsp finely grated orange zest
-
-1 tbsp Grand Marnier or orange liqueur
-
-125ml double cream, plus extra to serve
+* 350g plain flour
+* 250g unsalted butter
+* 60g caster sugar
+* 1 egg yolk, lightly whisked with 30g water filling
+* 1 large egg
+* 1 large egg yolk
+* 250g ricotta, drained
+* 75g icing sugar
+* 2 tsp finely grated orange zest
+* 1 tbsp Grand Marnier or orange liqueur
+* 125ml double cream, plus extra to serve
  
 
 **For the tart base,** lightly grease a 25cm tart pan with a removable base.
@@ -37,8 +36,3 @@
 **For the filling,** place the egg, egg yolk, ricotta, sugar, orange zest and liqueur in a medium bowl and stir to combine. Whip the cream in a small bowl with an electric mixer on high speed until soft peaks form. Fold the cream into the ricotta mixture and spoon into the prepared tart case.
 
 **Bake for 20 minutes** or until golden. Allow tart to cool on a wire rack. Serve with extra double cream, if desired. The orange ricotta tart is also fantastic served simply with vanilla ice-cream.
-[Make ahead: Neil Perry’s gnocchi beef ragu](https://www.goodfood.com.au/recipes/make-ahead-neil-perrys-gnocchi-beef-ragu-20131013-2vhbd)
-- - - -
-
-#recipe/neilperry #recipe/baking #recipe/desserts
-

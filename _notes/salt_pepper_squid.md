@@ -1,15 +1,14 @@
 ---
-creation date: 2022-01-12 20:39
-modification date: Wednesday 12th January 2022 20:42:33
-origin_url: https://www.sbs.com.au/food/recipes/pub-style-salt-and-pepper-squid
+origin_url: "https://www.sbs.com.au/food/recipes/pub-style-salt-and-pepper-squid"
 collection: [dinner]
 cuisine: asian
 chef: adam_liaw
+alias: "Salt & Pepper Squid"
+tags: [seafood]
 ---
-# Salt & pepper squid
+# [Salt & pepper squid](https://www.sbs.com.au/food/recipes/pub-style-salt-and-pepper-squid)
 
 ![Adam Liaw's Salt & Pepper Squid](assets/f7533825627f007723610225848cd029.jpg)
-Oct 30, 2021
 
 It’s universally loved and you can buy it in just about any pub, Vietnamese, Thai or Chinese restaurant, or Italian café around the country. On top of that, it’s not commonly found in any other country. It is a truly home grown favourite.
 

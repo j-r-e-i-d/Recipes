@@ -1,7 +1,13 @@
-# Raspberry & Pistacchio Mille Feuille
-[Source](https://www.thesaturdaypaper.com.au/2021/05/31/pistachio-and-raspberry-mille-feuille/162039600011592)
+---
+origin_url: "https://www.thesaturdaypaper.com.au/2021/05/31/pistachio-and-raspberry-mille-feuille/162039600011592"
+collection: [sweet_snack]
+cuisine: ""
+chef: "Annie Smithers"
+alias: "Raspberry & Pistacchio Mille Feuille"
+---
+# [Raspberry & Pistacchio Mille Feuille](https://www.thesaturdaypaper.com.au/2021/05/31/pistachio-and-raspberry-mille-feuille/162039600011592)
 
-![](assets/raspberry_mille_feuille.jpg)raspberry_mille_feuille
+![[../assets/Pasted image 20220706205411.png]]
 
 Nothing says “I love you” more to my mother than a bit of pastry frippery for afternoon tea on Mother’s Day. And what could be better than a slightly more modern take on the vanilla slice? A lovely pistachio and raspberry mille-feuille. While the literal translation of thousand sheets is not quite correct, it still gives the idea.
 

@@ -17,7 +17,7 @@ Hailing from the mountainous region of Lorraine in northern France, quiche Lorra
 
 ## Ingredients
 
-- **1** x [shortcrust pastry](shortcrust_pastry)
+- **1** x [shortcrust pastry](shortcrust_pastry.md)
 - **200** g bacon rashers, trimmed and chopped
 - **3** eggs
 - **250** ml crème fraîche

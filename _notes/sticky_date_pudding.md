@@ -1,7 +1,13 @@
-# Sticky Date Pudding
-[Source](https://www.donnahay.com.au/recipes/dessert/slices/sticky-date-pudding-with-butterscotch-sauce)
+---
+origin_url: "https://www.donnahay.com.au/recipes/dessert/slices/sticky-date-pudding-with-butterscotch-sauce"
+collection: [dessert]
+cuisine: ""
+alias: "Sticky Date Pudding"
+chef: "Donna Hay"
+---
+# [Sticky Date Pudding](https://www.donnahay.com.au/recipes/dessert/slices/sticky-date-pudding-with-butterscotch-sauce)
 
-![](assets/Sticky-Date-Pudding-with-butterscotch-sauce.jpg)
+![[../assets/Pasted image 20220706210003.png]]
 
 ## Ingredients
 * 340g Fresh Dates, Seeded and Chopped
