@@ -28,26 +28,30 @@ alias: "Apple & blackberry streusel cake"
 - 50 g soft light brown sugar
 
 ## Method  
-Preheat the oven to 180 C and line a round 20 cm cake baking tin. 
+- Pre-heat oven to 170 C. Grease a cake pan with butter and set aside. I also line mine with greaseproof paper. 
 
-Mix together flour, sugar and baking powder. Cut butter into pieces and add to the flour. 
-Using your fingers mix flour and butter together until it resembles small breadcrumbs. 
+  
 
-Add the aquafaba egg and yogurt and mix well together, until it becomes a soft ball - it will be very soft and quite sticky. 
+To make the streusel topping 
 
-Divide the dough in half and put each half into the plastic wrap/bag and pop it into the fridge for an hour.
+- Sift the flour and cinnamon together. 
 
-  In the meantime prepare your apples, grate them (using the biggest size attachment in your kitchen robot or on hand grater). 
+- Cut the cold butter into small pieces and rub into the flour and cinnamon mixture with fingertips until the streusel comes together like bread crumbs. 
 
-Add cinnamon to grated apples and put aside so you can "deal" with the dough. 
+- Add the brown sugar and mix well. 
 
-Take one half of the dough and using your fingers spread it evenly on the bottom of the baking tin.
+- Set aside until needed. 
 
-Cover generously with apple and follow with the second half of the dough - which you can grate, tear apart with your fingers, and cover the apples completely. 
+**For the cake sponge** 
+Take the softened butter in a large enough bowl & add the sugar and cream together until well combined and soft. 
 
-Sprinkle the top with demerara sugar. 
+Add the egg and vanilla. Beat well with a whisk until combined. You can also use an electric beater or stand mixer but it's not really needed. 
 
-Bake for about 45-50 minutes until golden in colour. 
-Cool for a while in the tin before taking out and cooling completely. 
+In a bowl whisk the flour, salt and baking powder together. Add half of this to the egg mixture with half of the milk and whisk the batter gently until well combined. Add the rest of the flour and the milk and mix well again. 
 
-- Serve sprinkled with icing sugar, side of whipped cream or vanilla ice-cream
+Pour your cake sponge mix into the greased pan and spread evenly. Layer the sliced apples on top and your blackberries if you're using any. You can make this layer as thick or thin as you like. 
+
+Sprinkle the streusel evenly on top. 
+Bake in the pre-heated oven for 35-40 mins or until a skewer inserted into the centre comes out with moist crumbs. 
+
+- Serve warm or cold.
