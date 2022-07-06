@@ -40,7 +40,7 @@ title: Index
 
 ### Cakes
 * [[amalfi_lemon_bay_leaf_&_olive_oil_cake|Amalfi lemon & olive oil cake]]
-* [[]]
+* [[apple & blackberry streusel cake|Apple & blackberry streusel cake]]
 * [[autumnal_birthday_cake|Autumnal birthday cake]]
 * [[bitter_orange_tart|Bitter Orange tart]]
 * [[chocolate_pavlova|Chocolate Pavlova]]
