@@ -7,19 +7,25 @@ alias: "Apple & blackberry streusel cake"
 ---
 # [Apple & blackberry streusel cake](http://www.anulaskitchen.com/2014/03/apple-blackberry-streusel-cake-recipe.html)
 
-![Szarlotka](../assets/szarlotka.jpg)
+![Streusel](../assets/streusel.jpg)
 
 ## Ingredients
-- 1 1/2 cup plain flour  
-- 1/2 cup caster sugar  
-- 115g  butter, soft  
+**For the cake:**  
+- 60 g unsalted butter  
+- 140 g plain flour  
+- 80 g caster sugar  
+- 1 egg  
+- 1/2 teaspoon vanilla extract  
 - 1 teaspoon baking powder  
-- 1 teaspoon vegan natural yogurt   
-- 1 egg
-- pinch of salt  
-- 5 apples, pealed, cored and grated  
-- 1/2 teaspoon cinnamon  
-- 1 teaspoon demerara sugar
+- 1/2 teaspoon salt  
+- 80 ml oat or soy milk  
+- 3 granny smith apples  
+  
+**For the** **streusel** **topping:**  
+- 70 g plain flour  
+- 1/2 teaspoon ground cinnamon  
+- 40 g unsalted butter, chilled and diced
+- 50 g soft light brown sugar
 
 ## Method  
 Preheat the oven to 180 C and line a round 20 cm cake baking tin. 
