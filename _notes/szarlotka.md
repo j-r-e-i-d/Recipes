@@ -12,10 +12,10 @@ alias: "Szarlotka"
 ## Ingredients
 - 1 1/2 cup plain flour  
 - 1/2 cup caster sugar  
-- 115 g vegan butter, soft  
+- 115g  butter, soft  
 - 1 teaspoon baking powder  
 - 1 teaspoon vegan natural yogurt   
-- 1 aquafaba egg (3 tablespoon aquafaba)  
+- 1 egg
 - pinch of salt  
 - 5 apples, pealed, cored and grated  
 - 1/2 teaspoon cinnamon  
@@ -25,8 +25,9 @@ alias: "Szarlotka"
 Preheat the oven to 180 C and line a round 20 cm cake baking tin. 
 
 Mix together flour, sugar and baking powder. Cut butter into pieces and add to the flour. 
-- Using your fingers mix flour and butter together until it resembles small breadcrumbs. 
-- Add the aquafaba egg and yogurt and mix well together, until it becomes a soft ball - it will be very soft and quite sticky. 
+Using your fingers mix flour and butter together until it resembles small breadcrumbs. 
+
+Add the aquafaba egg and yogurt and mix well together, until it becomes a soft ball - it will be very soft and quite sticky. 
 - Divide the dough in half and put each half into the plastic wrap/bag and pop it into the fridge for an hour.
 
   
