@@ -1,5 +1,13 @@
--   Steps
--   Ingredients
+---
+origin_url: "https://10play.com.au/masterchef/recipes/salmon-with-herb-beurre-blanc/r220407ielga"
+collection: [dinner]
+cuisine: "French"
+chef: ""
+tags: [seafood]
+alias: "Salmon with Herb Beurre Blanc"
+---
+# [Salmon with Herb Beurre Blanc](https://10play.com.au/masterchef/recipes/salmon-with-herb-beurre-blanc/r220407ielga)
+![[../assets/0c0dde9d8d68f36c3ad9420b48495ae3.png]]
 
 ## Ingredients
 
@@ -56,5 +64,3 @@
 -   For the Herb Beurre Blanc, combine the Fish Stock and Wine Reduction in a saucepan over medium heat and bring to a simmer.
 -   Add the butter piece by piece, whisking in between additions, until combined. Remove from the heat and just before serving, add lemon juice, herbs, finger lime pearls and salt.
 -   To serve, pour approximately 100ml of sauce into a bowl or plate. Remove the fish from the bags and place in the centre of the sauce. Season the fish with a pinch of salt flakes. Sprinkle fried capers around the salmon and serve immediately.
-
-### You might like

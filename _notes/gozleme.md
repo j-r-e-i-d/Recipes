@@ -1,5 +1,11 @@
-# Gozleme
-[Source](https://www.sbs.com.au/food/recipes/gozleme)
+---
+origin_url: "https://www.sbs.com.au/food/recipes/gozleme"
+collection: "breakfast"
+cuisine: "Turkish"
+chef: "Sammi"
+alias: "Gozleme"
+---
+# [Gozleme](https://www.sbs.com.au/food/recipes/gozleme)
 
 ![](assets/54c94175522d67ccd9834ad5c648bd1c.jpg)
 

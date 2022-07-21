@@ -4,7 +4,7 @@ collection: [dinner]
 cuisine: "French"
 chef: "Elizabeth David"
 tags: [vegetarian]
-alias: Onion Tart With Green Pea Sauce
+alias: "Onion Tart With Green Pea Sauce"
 image: onion_tart.jpg
 ---
 # [Onion Tart With Green Pea Sauce](https://www.thesaturdaypaper.com.au/food/2021/10/31/elizabeth-davids-onion-tart-with-green-pea-sauce/163369800012614)

@@ -20,7 +20,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [assets/1460436371223 1.jpg](assets/1460436371223%201.jpg) in [dutch_baby_(pancake)_w_bananas_&_berries](dutch_baby_(pancake)_w_bananas_&_berries.md)
 - [assets/eggs-in-purgatory-562750d1216a9.jpg](assets/eggs-in-purgatory-562750d1216a9.jpg) in [eggs_in_purgatory](_breakfast/eggs_in_purgatory.md)
 - [assets/forgotten_cookies.jpg](assets/forgotten_cookies.jpg) in [forgotten_cookies](_dessert/forgotten_cookies.md)
-- [assets/gozleme-004.jpg](assets/gozleme-004.jpg) in [gozleme](gozleme.md)
+- [assets/gozleme-004.jpg](assets/gozleme-004.jpg) in [gozleme](../_notes/gozleme.md)
 - [assets/ba-best-hash-browns.jpg](assets/ba-best-hash-browns.jpg) in [hash_browns](hash_browns.md)
 - [assets/spinach_feta_gozleme2.jpg](assets/spinach_feta_gozleme2.jpg) in [homemade_spinach_&_feta_gozleme](homemade_spinach_&_feta_gozleme.md)
 - [assets/og_ep8_lemon-myrtle-dutch-baby-2.jpg](assets/og_ep8_lemon-myrtle-dutch-baby-2.jpg) in [lemon_myrtle_dutch_baby](lemon_myrtle_dutch_baby.md)

@@ -1,5 +1,14 @@
--   Steps
--   Ingredients
+---
+origin_url: "https://10play.com.au/masterchef/recipes/barramundi-en-papillote-green-beans-pomme-puree/r220407sjrbh"
+collection: [dinner]
+cuisine: ""
+chef: ""
+tags: []
+alias: "Barramundi en Papillote Green Beans Pomme Purée"
+---
+# [Barramundi en Papillote Green Beans Pomme Purée](https://10play.com.au/masterchef/recipes/barramundi-en-papillote-green-beans-pomme-puree/r220407sjrbh)
+![[../assets/b72ffd66c2b71d5d439b18af1c99fcfd.png]]
+
 
 ## Ingredients
 
@@ -44,5 +53,3 @@
 -   For the Fish en Papillote, cut 12 A5 sized pieces of foil. Arrange on bench in six stacks of two layers, shiny side up. Top each with 1 slightly smaller piece of baking paper. Tear parsley leaves into small pieces and sprinkle over the paper to create a bed for the fish. Season fish with salt on both sides and place onto parsley.
 -   Top each portion of fish with lemon, a slice of butter and thyme. Drizzle lightly with olive oil. Cover each piece of fish with 2 more pieces of foil, dull side up. Fold the edges of foil in towards the fish, one side at a time, ensuring edges are sealed tight but there is still enough space in the centre of the parcel to expand as the fish cooks. Place onto a tray and cook in the oven for 15 minutes. Remove from the oven and set aside for 5 minutes.
 -   To serve, cut open the fish parcels and carefully slide onto serving plates. Add a large spoonful of the puree and dressed beans to the plate, along with some extra dressing. Sprinkle with salt flakes.
-
-### You might like
