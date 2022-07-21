@@ -1,13 +1,15 @@
 ---
-creation date: 2022-01-19 15:18
-modification date: Wednesday 19th January 2022 15:18:10
+alias: "Strawberry meringue cake"
 origin_url: https://www.thesaturdaypaper.com.au/food/dessert/2021/01/31/strawberry-meringue-cake/161192520010998
 collection: [cake]
 cuisine: 
 chef: Annie Smithers
 ---
 # [Strawberry meringue cake](https://www.thesaturdaypaper.com.au/food/dessert/2021/01/31/strawberry-meringue-cake/161192520010998)
+
+
 ![](assets/b9902e87d18f2f128974a58cf82ab885.jpg)
+
 If you don’t fancy making the entire cake here, the meringue mixture can simply be spooned onto greaseproof paper in dollops and baked. The addition of brown sugar gives a lovely complex caramel note to the meringues. They can be sprinkled with flaked almonds, chopped hazelnuts or dusted with cocoa before being baked, and can be kept for weeks in an airtight container.
 
 As a standalone, simple summer dessert, the mousse can be set in ramekins, glasses or bowls and served with fresh strawberries and cream.

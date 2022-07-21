@@ -1,17 +1,17 @@
 ---
-creation date: 2022-02-13 17:31
-modification date: Sunday 13th February 2022 17:31:02
 origin_url: https://www.thesaturdaypaper.com.au/food/2021/10/31/elizabeth-davids-onion-tart-with-green-pea-sauce/163369800012614
 collection: [dinner]
-cuisine: french
-chef: Elizabeth David
-tags: vegetarian,
+cuisine: "French"
+chef: "Elizabeth David"
+tags: [vegetarian]
 alias: Onion Tart With Green Pea Sauce
 image: onion_tart.jpg
 ---
+# [Onion Tart With Green Pea Sauce](https://www.thesaturdaypaper.com.au/food/2021/10/31/elizabeth-davids-onion-tart-with-green-pea-sauce/163369800012614)
 
 Like many tarts of the quiche-style family, I always find it is at its best when eaten almost straight from the oven. I say almost, as there needs to be a little resting time so you can take it from the flan tin with no mishaps. I make it as a large tart, but also have made it as individual tarts. This is the original version, but some may like to add a little gruyere or goat’s cheese for added flavour. Lovers of bacon could also cook some lardons of bacon and use the resulting fat to add to the onion cooking medium. Another variation is to add a glass of good Alsace riesling at the end of cooking the onions and let it cook away. And in spring, it is delicious with a sharply dressed salad or a green pea sauce.
 
+![Onion tart with pea sauce](assets/onion_tart.jpg)
 _Serves 6_
 
 ## Ingredients
