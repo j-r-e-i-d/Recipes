@@ -16,18 +16,24 @@ title: Index
 * [[chicken_braised_w_mushroom_&_thyme|Chicken braised with mushroom & thyme]]
 * [[chicken_breast_w_garlic_&_black_bean_dressing|Chicken breast with garlic & black bean dressing]]
 * [[chicken_drumsticks_porcini_chardonnay]]
+* [[chicken_fricassee|Chicken Fricassee]]
 * [[chicken_w_salt_pepper_lime_&_bird's_eye_chilli_recipe|Chicken with salt pepper lime and bird's eye chilli]]
 * [[corn_cauliflower_chowder|Corn & Cauliflower Chowder]]
+* [[creamy_polenta_charred_mushrooms|Creamy polenta with charred mushrooms]]
 * [[lamb_backstrap_black_garlic_sauce_-_network_t|Lamb Backstrap with Black Garlic Sauce]]
 * [[lamb_cauliflower_aioli|Lamb chops & cauliflower with garlic & lemon yoghurt]]
 * [[lamb_feta_meatball_flatbreads|Lamb And Feta Meatball Flatbreads]]
 * [[lasagne|Lasagne]]
 * [[loaded_cauliflower|Loaded Cauliflower]]
 * [[onion_tart_with_green_pea_sauce|Onion Tart With Green Pea Sauce]]
+* [[polenta_mushrooms_broccoli|Polenta Mushrooms and Broccoli]]
 * [[quiche_lorraine|Quiche Lorraine]]
+* [[quick_saffron_polenta_bake|Quick Saffron Polenta Bake]]
 * [[salmon_with_herb_beurre_blanc|Salmon with Herb Beurre Blanc]]
 * [[salt_pepper_squid|Salt & Pepper Squid]]
 * [[braised_lamb_shoulder|Slow-braised lamb shoulder with aioli]]
+* [[soft_polenta_garlic_mushrooms|Soft Polenta With Garlic Mushrooms]]
+* [[sweetcorn_polenta_sausage_ragout|Sweetcorn polenta with sausage ragout]]
 * [[tarte_de_tomates_lardons_et_le_ménez_hom_(or_som|Tarte de Tomates]]
 
 ### Sides
@@ -61,6 +67,7 @@ title: Index
 * [[Lemon Meringue Cake|Lemon meringue cake]]
 * [[strawberry_meringue_cake|Strawberry meringue cake]]
 * [[szarlotka|Szarlotka]]
+* [[torte_caprese|Torte caprese]]
 
 ### Desserts
 * [[baked_custard_w_roast_rhubarb|Baked custard with roast rhubarb]]
