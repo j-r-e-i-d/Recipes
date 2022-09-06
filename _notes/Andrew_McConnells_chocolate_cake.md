@@ -1,4 +1,5 @@
 ---
+alias: "Andrew McConnell's Chocolate Cake"
 origin_url: "https://www.thesaturdaypaper.com.au/food/baking/2022/01/31/andrew-mcconnells-chocolate-cake"
 collection: [cake]
 cuisine: ""

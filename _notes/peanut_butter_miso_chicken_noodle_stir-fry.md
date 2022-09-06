@@ -1,4 +1,5 @@
 ---
+alias: "Peanut Butter Miso Chicken Noodle Stir-Fry"
 origin_url: "https://www.goodfood.com.au/recipes/slurpy-peanut-butter-miso-chicken-noodle-stirfry-20220621-h24l12"
 collection: [dinner]
 cuisine: ""

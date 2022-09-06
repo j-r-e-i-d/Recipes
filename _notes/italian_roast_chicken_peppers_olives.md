@@ -1,12 +1,13 @@
 ---
+alias: "Italian roast chicken with peppers and olives"
 origin_url: "https://www.nigella.com/recipes/italian-roast-chicken-with-peppers-and-olives"
 collection: [dinner]
 cuisine: "Italian"
 chef: "Nigella Lawson"
 tags: []
 ---
-# [ITALIAN ROAST CHICKEN WITH PEPPERS AND OLIVES](https://www.nigella.com/recipes/italian-roast-chicken-with-peppers-and-olives)
-![]()
+# [Italian roast chicken with peppers and olives](https://www.nigella.com/recipes/italian-roast-chicken-with-peppers-and-olives)
+
 ![[../assets/233386ca54d54767c6f86ebc7725891b.png]]
 
 A roast chicken always feels celebratory; indeed, a roast chicken always is celebratory. The vibrantly coloured and intensely flavoured vegetables that are cooked alongside here seem only to underline this, offering their own brightness and brio, sunny in taste as well as mood.

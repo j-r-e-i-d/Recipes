@@ -1,4 +1,6 @@
 ---
+alias:
+- Mushroom Spinach and Zucchini Frittata
 origin_url: "https://www.goodfood.com.au/recipes/mushroom-spinach-and-zucchini-frittata-20220321-h22jqm"
 collection: [dinner]
 cuisine: ""

@@ -1,4 +1,5 @@
 ---
+alias: "Crepes With Buttered Bananas and Condensed Milk"
 origin_url: "https://www.goodfood.com.au/recipes/adam-liaws-crepes-with-buttered-bananas-and-condensed-milk-20220304-h2263z"
 collection: "breakfast"
 cuisine: "Thai"

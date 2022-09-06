@@ -1,4 +1,5 @@
 ---
+alias: "Broad bean falafel with tahini dressing and salad"
 origin_url: "https://www.thesaturdaypaper.com.au/food/dinner/2019/10/31/broad-bean-falafel-with-tahini-dressing-and-salad/15720084008966"
 collection: [dinner]
 cuisine: ""

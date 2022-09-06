@@ -1,4 +1,5 @@
 ---
+alias: "Greek Baked Lamb and Rice With Yoghurt"
 origin_url: "https://www.goodfood.com.au/recipes/greek-baked-lamb-and-rice-with-yoghurt-20190827-h1hho8"
 collection: [dinner]
 cuisine: "Greek"

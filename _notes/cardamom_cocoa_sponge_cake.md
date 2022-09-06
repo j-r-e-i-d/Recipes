@@ -1,4 +1,5 @@
 ---
+alias: "Cardamom and cocoa sponge cake"
 origin_url: "https://www.thesaturdaypaper.com.au/food/baking/2022/07/31/cardamom-and-cocoa-sponge-cake"
 collection: [cake]
 cuisine: ""

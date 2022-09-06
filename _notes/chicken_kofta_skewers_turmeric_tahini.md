@@ -1,4 +1,5 @@
 ---
+alias: "Chicken Kofta Skewers With Turmeric Tahini"
 origin_url: "https://www.goodfood.com.au/recipes/chicken-kofta-skewers-with-turmeric-tahini-20161121-gstu40"
 collection: [dinner]
 cuisine: ""
