@@ -8,7 +8,7 @@ tags: [lamb]
 ---
 # [Lamb chops & cauliflower with garlic & lemon yoghurt](https://www.goodfood.com.au/recipes/lamb-chops-and-cauliflower-with-garlic-and-lemon-yoghurt-20200309-h1mecf)
 
-![img](../assets/lamb_cauliflower.jpg)
+![img](../assets/6cced851f9033c0bd7728f0d6f5dee5d.jpg)
 
 The secret weapon in this yoghurt sauce is the mayonnaise. It adds a tangy hit … and you'd never guess it was there.
 

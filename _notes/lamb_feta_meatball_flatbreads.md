@@ -8,7 +8,7 @@ alias: "Lamb And Feta Meatball Flatbreads"
 ---
 # [Lamb And Feta Meatball Flatbreads](https://www.donnahay.com.au/recipes/lunch/lamb-and-feta-meatball-flatbreadsv)
 
-![lamb_feta_meatball_flatbread](../assets/lamb_feta_meatball_flatbread.jpg)
+![lamb_feta_meatball_flatbread](../assets/11c10c700dfca0a326f6fbcbc34b0a29.jpg)
 
 ## Ingredients
 

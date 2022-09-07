@@ -10,7 +10,7 @@ Although I make the most of the Seville orange season (December to February), th
 
 I have to say, that when Seville oranges are in season, this tart looks like a disc of winter sunshine on the plate – and tastes like it, too. I must also add that the curd is just as fabulous spread over toasted crumpets or proper white bread.
 
-![Bitter Orange Tart](../assets/bitterorangetart.jpg)
+![Bitter Orange Tart](../assets/efc7109e7c11769929b09f3a91a1dd1e.jpg)
 
 *Yields: 10-14 slices*
 

@@ -7,7 +7,7 @@ alias: "Szarlotka"
 ---
 # [Szarlotka](http://www.anulaskitchen.com/2014/11/polish-apple-cake-szarlotka.html)
 
-![Szarlotka](../assets/szarlotka.jpg)
+![Szarlotka](../assets/fe583f908d7b3a899283f314bb4bdfb1.jpg)
 
 ## Ingredients
 - 1 1/2 cup plain flour  

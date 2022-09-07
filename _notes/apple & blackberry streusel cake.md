@@ -7,7 +7,7 @@ alias: "Apple & blackberry streusel cake"
 ---
 # [Apple & blackberry streusel cake](http://www.anulaskitchen.com/2014/03/apple-blackberry-streusel-cake-recipe.html)
 
-![Streusel](../assets/streusel.jpg)
+![Streusel](../assets/e03a6a062e78a1782e432c9960adefb0.jpg)
 
 ## Ingredients
 **For the cake:**  

@@ -16,7 +16,7 @@ The main difference with this version is that I blanch the pasta sheets before l
 
 There are a few elements to this dish that you can break down into stages and do over a few days. You can even ditch the idea of making your own pasta and find somewhere to buy fresh pre-rolled sheets. Each step is a version of a standard recipe so for a little brevity I haven’t given detailed instructions, rather I shall just advise on pertinent points. It is important though that you follow amounts here as then the ratios will be correct for the final product. And, of course, feel free to go a little wild and experiment: make a spinach pasta sheet, add mozzarella or more chilli, throw in some basil, or do an eggplant version. There are no rules if you call it Australian.
 
-![[../assets/Pasted image 20220706203347.png]]
+![Lasagne](../assets/05dd2456b1882175d54a0cf0060349d8.png)
 
 **Serves:** 8
 **Time:** about 3 hours preparation + overnight + 30-40 minutes cooking

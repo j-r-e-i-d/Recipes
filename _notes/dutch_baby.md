@@ -11,7 +11,7 @@ I’ve only ever eaten Dutch babies in the States, where they are brought out to
 
 While you can, of course, serve this mega-pancake just sprinkled with granulated sugar and lemon juice or, for a more diner taste, with a side order of bacon and maple syrup, I like it tumbled with berries and dusted with icing sugar with a bowl of creme fraiche within arm’s reach. I confess, I also add an ooze of maple syrup as I eat.
 
-![Dutch Baby](../assets/dutch-baby-56ce346617db0.jpg)
+![Dutch Baby](../assets/7bb00dc08424847e8a9bed37f79f539f.jpg)
 
 ## Ingredients
 Serves: 4-6
