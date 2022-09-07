@@ -32,6 +32,7 @@ title: Index
 * [[loaded_cauliflower|Loaded Cauliflower]]
 * [[mushroom_spinach_zucchini_frittata|Mushroom Spinach and Zucchini Frittata]]
 * [[onion_tart_with_green_pea_sauce|Onion Tart With Green Pea Sauce]]
+* [[pasta_with_courgettes|Pasta with courgettes]]
 * [[peanut_butter_miso_chicken_noodle_stir-fry|Peanut Butter Miso Chicken Noodle Stir-Fry]]
 * [[polenta_mushrooms_broccoli|Polenta Mushrooms and Broccoli]]
 * [[quiche_lorraine|Quiche Lorraine]]
@@ -45,6 +46,7 @@ title: Index
 
 ### Sides
 * [[salt_and_vinegar_potatoes|Salt & vinegar potatoes]]
+* [[universally_useful_blue_cheese_dressing|Universal blue cheese dressing]]
 
 ### Breakfasts
 * [[apple_racuchy|Apple racuchy]]
@@ -68,7 +70,7 @@ title: Index
 ### Cakes
 * [[amalfi_lemon_bay_leaf_&_olive_oil_cake|Amalfi lemon & olive oil cake]]
 * [[Andrew_McConnells_chocolate_cake|Andrew McConnell's Chocolate Cake]]
-* [[apple & blackberry streusel cake|Apple & blackberry streusel cake]]
+* [[apple_blackberry_streusel_cake|Apple & blackberry streusel cake]]
 * [[autumnal_birthday_cake|Autumnal birthday cake]]
 * [[bitter_orange_tart|Bitter Orange tart]]
 * [[cardamom_cocoa_sponge_cake|Cardamom and cocoa sponge cake]]
