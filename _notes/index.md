@@ -41,6 +41,8 @@ title: Index
 * [[salt_pepper_squid|Salt & Pepper Squid]]
 * [[braised_lamb_shoulder|Slow-braised lamb shoulder with aioli]]
 * [[soft_polenta_garlic_mushrooms|Soft Polenta With Garlic Mushrooms]]
+* [[spring_greens_shredded_lamb|Spring greens and shredded lamb shoulder]]
+* [[spring_linguini_pea_puree|Spring linguini on pea purée]]
 * [[sweetcorn_polenta_sausage_ragout|Sweetcorn polenta with sausage ragout]]
 * [[tarte_de_tomates_lardons_et_le_ménez_hom_(or_som|Tarte de Tomates]]
 
