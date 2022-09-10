@@ -8,7 +8,7 @@ alias: "Quiche Lorraine"
 ---
 # [Quiche Lorraine](https://www.sbs.com.au/food/recipes/anneka-mannings-quiche-lorraine)
 
-![[../assets/Pasted image 20220703145348.png]]
+![[../assets/3a4da8eaac2cf932ff90b49d6c2b7dbb.png]]
 
 Hailing from the mountainous region of Lorraine in northern France, quiche Lorraine is traditionally made with just eggs, crème fraîche and bacon. It began as a humble egg-and-bacon pie but has evolved to a more refined open tart. Some of the crème fraîche has been replaced with milk in this tart to make it slightly less rich and more suited our modern palates.
 

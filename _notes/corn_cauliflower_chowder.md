@@ -7,7 +7,7 @@ chef: "Anna Jones"
 tags: [soup, vegetarian]
 ---
 # [Corn & Cauliflower Chowder](https://www.theguardian.com/food/2018/aug/24/anna-jones-sweetcorn-recipes)
-![[../assets/Pasted image 20220703143843.png]]
+![[../assets/257eddcf8182c0befb03bd2c26e78094.png]]
 
 In a chowder, corn is usually paired with potatoes to add creaminess and body. I use cauliflower here instead: it suits the season, as this soup is a little lighter than the potato version. It also makes use of the often wasted [cauliflower leaves](https://www.theguardian.com/lifeandstyle/2018/jun/30/how-to-make-the-most-of-cauliflower-leaves), which I crisp up in a pan as I would crispy kale. The basil, spring onion, green chilli and peanut topping is what makes it sing. You could use other nuts, and coriander would work in place of basil, if you like.
 

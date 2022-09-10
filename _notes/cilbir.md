@@ -7,7 +7,7 @@ alias: "Cilbir"
 ---
 # [Cilbir](https://www.theguardian.com/lifeandstyle/2017/jun/17/chilli-butter-recipes-cilbir-sumac-chicken-baked-eggs-chard-yotam-ottolenghi)
 
-![[../assets/Pasted image 20220705224929.png]]
+![[../assets/627396c9cc9bc55973f08ec8162f1633.png]]
 
 This traditional Turkish breakfast is delicious even without the milk crumbs, but I’ve loved them since coming across them at the brilliant [Tulum in Melbourne](http://tulumrestaurant.com.au/). Bread, however, is a must, for mopping up. Eat this just warm, not piping hot.
 

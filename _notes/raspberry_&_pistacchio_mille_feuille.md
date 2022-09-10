@@ -7,7 +7,7 @@ alias: "Raspberry & Pistacchio Mille Feuille"
 ---
 # [Raspberry & Pistacchio Mille Feuille](https://www.thesaturdaypaper.com.au/2021/05/31/pistachio-and-raspberry-mille-feuille/162039600011592)
 
-![[../assets/Pasted image 20220706205411.png]]
+![[../assets/6d991bf39af56389db4f310b69d93e16.png]]
 
 Nothing says “I love you” more to my mother than a bit of pastry frippery for afternoon tea on Mother’s Day. And what could be better than a slightly more modern take on the vanilla slice? A lovely pistachio and raspberry mille-feuille. While the literal translation of thousand sheets is not quite correct, it still gives the idea.
 

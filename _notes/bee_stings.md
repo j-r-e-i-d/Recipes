@@ -6,7 +6,7 @@ chef: "Annie Smithers"
 alias: "Bee Stings"
 ---
 # [ Bee Stings](https://www.thesaturdaypaper.com.au/food/dessert/2021/06/30/bee-stings/162402480011882#mtr)
-![[../assets/Pasted image 20220704213402.png]]
+![[../assets/ea8213d9b7dc8d134e132beae8050719.png]]
 
 A bee sting cake is a staple of the German cake stand. It is usually baked in a cake tin and then split and filled with a vanilla pastry cream. It’s not a cake, though; it’s actually a bread.
 

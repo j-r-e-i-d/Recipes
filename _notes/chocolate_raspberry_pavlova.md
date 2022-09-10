@@ -8,7 +8,7 @@ cuisine:
 chef: "nigella"
 ---
 # [Chocolate Raspberry Pavlova](https://www.nigella.com/recipes/chocolate-raspberry-pavlova)
-![[../assets/Pasted image 20220705224648.png]]
+![[../assets/36f132b9d0e2b11bc17ca44e64c014db.png]]
 
 You just cannot beat a pav in my book, and I glory in particular this dark beauty. The crisp and chewy chocolate meringue base, rich in cocoa and beaded nuggets of chopped plain chocolate, provides a sombre, almost purple-brown layer beneath the fat whiteness of the cream and matt, glowering crimson raspberries on top: it is a killer combination.
 

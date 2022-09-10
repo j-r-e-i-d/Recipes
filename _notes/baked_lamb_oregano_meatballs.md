@@ -8,7 +8,7 @@ tags: [lamb]
 ---
 # [Baked Lamb And Oregano Meatballs](https://www.donnahay.com.au/recipes/dinner/beef-and-lamb/baked-lamb-and-oregano-meatballs)
 
-![[../assets/Pasted image 20220703142550.png]]
+![[../assets/ba2ffe37726f4ae033e9782588659346.png]]
 
 Serves 4-6
 
