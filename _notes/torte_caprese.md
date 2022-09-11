@@ -6,7 +6,7 @@ cuisine: "Italian"
 chef: "Emiko Davies"
 ---
 # [Torte caprese](https://www.emikodavies.com/capris-flourless-chocolate-and-almond-cake/)
-![[assets/6976512fe0b6399dcc551aa99a9bd3c2.png]]
+![](assets/6976512fe0b6399dcc551aa99a9bd3c2.png)
 
 _As far as chocolate cakes go, this Elizabeth David-like_ torta caprese _is the ultimate for me. Aside from whipping the whites, you only need a wooden spoon. It’s dark and not too sweet, which would detract from the richness of the cake. If you like, a grating of orange zest is particularly nice here too. To serve it, I like it just as it is, but you could add some lightly whipped, plain cream. Note that it is even better the next day._
 

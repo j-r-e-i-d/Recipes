@@ -11,7 +11,7 @@ If I hadn’t eaten the Turkish eggs at Peter Gordon’s restaurant, The Provido
 
 If you can’t get the Aleppo pepper, also known as pul biber or Turkish red pepper flakes, which has a mild, almost sweet heat and a distinctive lemoniness, you could substitute paprika, adding a pinch of dried chilli flakes. But, in these days of online grocery shopping, I’d encourage you to go for the real thing. This is the recipe that helped me overcome my fear of poaching eggs (see additional info below).
 
-![[../assets/8745d9e157e3d07e745b078f60a230c7.png]]
+![](../assets/8745d9e157e3d07e745b078f60a230c7.png)
 
 ## Ingredients
 Serves: 2

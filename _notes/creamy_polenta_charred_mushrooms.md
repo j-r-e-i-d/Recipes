@@ -8,7 +8,7 @@ alias: "Creamy polenta with charred mushrooms"
 ---
 # [Creamy polenta with charred mushrooms](https://www.theguardian.com/lifeandstyle/2016/oct/31/quick-saffron-polenta-bake-recipe-charred-mushrooms-anna-jones-the-modern-cook)
 
-![[assets/08e1c68615fa1edd1fa95e7a9ebfb042.png]]
+![](assets/08e1c68615fa1edd1fa95e7a9ebfb042.png)
 
 
 The earthiness of the mushrooms and bitter notes of the radicchio make this recipe the perfect thing to eat with naturally sweet polenta.

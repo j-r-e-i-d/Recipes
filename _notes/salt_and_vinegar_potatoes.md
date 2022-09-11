@@ -7,7 +7,7 @@ alias: "Salt & vinegar potatoes"
 ---
 # [Salt & vinegar potatoes](https://www.nigella.com/recipes/salt-and-vinegar-potatoes#)
 
-![[../assets/250935360fd4c2abfa65a3f6ed748e42.png]]
+![](../assets/250935360fd4c2abfa65a3f6ed748e42.png)
 
 ## Introduction
 

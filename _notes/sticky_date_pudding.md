@@ -7,7 +7,7 @@ chef: "Donna Hay"
 ---
 # [Sticky Date Pudding](https://www.donnahay.com.au/recipes/dessert/slices/sticky-date-pudding-with-butterscotch-sauce)
 
-![[../assets/da9c87bbd78779a1d0e03695b6ea284a.png]]
+![](../assets/da9c87bbd78779a1d0e03695b6ea284a.png)
 
 ## Ingredients
 * 340g Fresh Dates, Seeded and Chopped

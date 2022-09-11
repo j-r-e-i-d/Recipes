@@ -8,7 +8,7 @@ tags: [lamb]
 ---
 # [Lamb Backstrap with Black Garlic Sauce](https://10play.com.au/masterchef/recipes/lamb-backstrap-with-black-garlic-sauce/r200326emdcj)
 
-![[../assets/d58132308cc3f1a07271591e57ae66c1.png]]
+![](../assets/d58132308cc3f1a07271591e57ae66c1.png)
 Serves 4
 
 ## Black Garlic Sauce

@@ -8,7 +8,7 @@ chef: "Andrew McConnell"
 # [Andrew McConnell’s chocolate cake](https://www.thesaturdaypaper.com.au/food/baking/2022/01/31/andrew-mcconnells-chocolate-cake)
 This chocolate cake is best served slightly undercooked. When it is finished baking, it may look not ready. Resist the desire to put it back in the oven for another five minutes and you will be rewarded with a lovely chocolate outer crust with a loose, almost runny centre.
 
-![[../assets/f4f8b8c235a063ef2817e00a8bbc9f53.png]]
+![](../assets/f4f8b8c235a063ef2817e00a8bbc9f53.png)
 
 
 **Ingredients**

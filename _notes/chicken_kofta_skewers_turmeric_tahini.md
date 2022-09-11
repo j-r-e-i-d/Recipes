@@ -8,7 +8,7 @@ tags: []
 ---
 # [Chicken Kofta Skewers With Turmeric Tahini](https://www.goodfood.com.au/recipes/chicken-kofta-skewers-with-turmeric-tahini-20161121-gstu40)
 ![]()
-![[assets/5455fc731970ca1e3f3aa26d952e7383.png]]
+![](assets/5455fc731970ca1e3f3aa26d952e7383.png)
 
 **Serves:** 4
 

@@ -7,7 +7,7 @@ chef: "Zuza Zak"
 ---
 # [Pear, twaróg & hemp seed pancakes](http://zuzazak.com/2021/02/savoury-and-sweet-pancake-recipes-for-pancake-day/)
 
-![[../assets/b350e0e9b3002e9a763f5f1bb5436d4e.png]]
+![](../assets/b350e0e9b3002e9a763f5f1bb5436d4e.png)
 
 This is the pancake I will be making on Pancake Day 2021. It’s a new recipe, inspired by my Baltic travels. Hemp seeds are very popular in Latvia and full of goodness (and naturally occurring, feel-good [CBD](https://www.health.harvard.edu/blog/cannabidiol-cbd-what-we-know-and-what-we-dont-2018082414476)). They are a wonderful flavour match for ripe pear. The addition of twaróg (you can use any curd cheese or even cream cheese) imparts them with a moreish creaminess.
 

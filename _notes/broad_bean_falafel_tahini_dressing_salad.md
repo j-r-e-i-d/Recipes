@@ -9,7 +9,7 @@ tags: [vegetarian]
 # [Broad bean falafel with tahini dressing and salad
 ](https://www.thesaturdaypaper.com.au/food/dinner/2019/10/31/broad-bean-falafel-with-tahini-dressing-and-salad/15720084008966)
 
-![[../assets/94633c95e05bfad2c97cd1c9e871d348.png]]
+![](../assets/94633c95e05bfad2c97cd1c9e871d348.png)
 
 The most interesting ingredient in this recipe, however, is the sea parsley. Sea parsley (or sea celery) is a coastal native plant that is closely related to our more common parsleys. It grows along the coast, protruding from rocky outcrops and cliff faces. Sea parsley was eaten by early explorers, including Captain Cook, to ward off scurvy. Propagated varieties can be used in the same manner as continental parsley but with more restraint. Don’t be intimidated – endeavour to experiment with the native alternative.
 

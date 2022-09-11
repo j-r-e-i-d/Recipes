@@ -8,7 +8,7 @@ alias: "Sweetcorn polenta with sausage ragout"
 ---
 # [Sweetcorn polenta with sausage ragout](https://www.theguardian.com/lifeandstyle/2015/oct/02/sweetcorn-recipes-creamed-souffle-polenta-yotam-ottolenghi)
 ![]()
-![[assets/11cb5bce997c245027248ae7ce870ac8.png]]
+![](assets/11cb5bce997c245027248ae7ce870ac8.png)
 
 If you can, use fresh sweetcorn for this but, failing that, 450g frozen corn will have to do. Italian sausages are coarse in texture, and are often seasoned with fennel or aniseed. Get yours from a deli, if possible; Italian-style sausages are also sold in most big supermarkets these days, but they’re not quite the same in terms of quality. Otherwise, use a plain coarse sausage and add a teaspoon and a half of fennel seeds to the pan. Serves four.
 

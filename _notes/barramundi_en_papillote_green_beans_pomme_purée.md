@@ -7,7 +7,7 @@ tags: []
 alias: "Barramundi en Papillote Green Beans Pomme Purée"
 ---
 # [Barramundi en Papillote Green Beans Pomme Purée](https://10play.com.au/masterchef/recipes/barramundi-en-papillote-green-beans-pomme-puree/r220407sjrbh)
-![[../assets/b72ffd66c2b71d5d439b18af1c99fcfd.png]]
+![](../assets/b72ffd66c2b71d5d439b18af1c99fcfd.png)
 
 
 ## Ingredients

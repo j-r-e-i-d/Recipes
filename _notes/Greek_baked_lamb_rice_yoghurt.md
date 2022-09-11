@@ -7,7 +7,7 @@ chef: "Jill Dupleix"
 tags: []
 ---
 # [Greek Baked Lamb and Rice With Yoghurt](https://www.goodfood.com.au/recipes/greek-baked-lamb-and-rice-with-yoghurt-20190827-h1hho8)
-![[assets/829110e57c126244b12753860f5d4e31.png]]
+![](assets/829110e57c126244b12753860f5d4e31.png)
 
 Half moussaka, half shepherd's pie, this Greek/Albanian dish has a lush, custard-like topping of yoghurt and dill over a savoury lamb mince.
 

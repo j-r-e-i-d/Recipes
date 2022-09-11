@@ -8,7 +8,7 @@ alias: "Spring greens and shredded lamb shoulder"
 ---
 # [Spring greens and shredded lamb shoulder](https://www.thesaturdaypaper.com.au/food/dinner/2021/09/30/spring-greens-and-shredded-lamb-shoulder/163188720012474)
 
-![[../assets/b211eb28818dd6908f423d6d376e207b.png]]
+![](../assets/b211eb28818dd6908f423d6d376e207b.png)
 
 For those who don’t eat meat, this dish would be delightful with some lovely crunchy falafel, with copious amounts of new-season coriander, parsley and mint in the mix. It is the most glorious season of fresh green shoots that always spells hope and promise for tomorrow.
 

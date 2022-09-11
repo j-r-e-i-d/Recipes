@@ -8,7 +8,7 @@ tags:
 ---
 # [Blackberry Galette](https://www.nigella.com/recipes/blackberry-galette)
 
-![[../assets/a6424bb98a1266ba31db6d6a20f3e32f.png]]
+![](../assets/a6424bb98a1266ba31db6d6a20f3e32f.png)
 This is really a free-form pizza-like tart, which I made for the first time while we were doing the photography for How To Be A Domestic Goddess. We happened to have some polenta pastry left over and some spare blackberries in the fridge and I, suddenly rebelling against the planning and rule-following necessary to get all the food photographed, played around. This was the result. And really, you could use any fruit. I'd stick with the polenta or cornmeal pastry only because nothing soaks up the fruit's juices better without going soggy.
 
 *Serves: 6*

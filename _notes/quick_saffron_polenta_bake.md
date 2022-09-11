@@ -8,7 +8,7 @@ alias: "Quick Saffron Polenta Bake"
 ---
 # [Quick Saffron Polenta Bake](https://www.theguardian.com/lifeandstyle/2016/oct/31/quick-saffron-polenta-bake-recipe-charred-mushrooms-anna-jones-the-modern-cook)
 
-![[assets/9ba476d561cae82ba72be63301c01385.png]]
+![](assets/9ba476d561cae82ba72be63301c01385.png)
 
 Warming, saffron-scented polenta is double-cooked here – once in the pan and then finished under the grill with a scattering of squash, kale and feta. The feta crispens and the squash burnishes as the polenta finishes cooking. I love the warming sunny flavour of saffron, but it can be pricey. If you don’t have any at home, you can make this without it, or use another herb, such as thyme or oregano. It won’t taste the same, but it will add another dimension to your polenta.
 

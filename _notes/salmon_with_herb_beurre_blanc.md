@@ -7,7 +7,7 @@ tags: [seafood]
 alias: "Salmon with Herb Beurre Blanc"
 ---
 # [Salmon with Herb Beurre Blanc](https://10play.com.au/masterchef/recipes/salmon-with-herb-beurre-blanc/r220407ielga)
-![[../assets/0c0dde9d8d68f36c3ad9420b48495ae3.png]]
+![](../assets/0c0dde9d8d68f36c3ad9420b48495ae3.png)
 
 ## Ingredients
 

@@ -6,7 +6,7 @@ cuisine: "Thai"
 chef: "Adam Liaw"
 ---
 # [Crepes With Buttered Bananas and Condensed Milk](https://www.goodfood.com.au/recipes/adam-liaws-crepes-with-buttered-bananas-and-condensed-milk-20220304-h2263z)
-![[assets/5b38e6e09e253950d1076b703a7c20d9.png]]
+![](assets/5b38e6e09e253950d1076b703a7c20d9.png)
 
 The combination of bananas, condensed milk and crepes is a favourite Thai street food. Often served as crisp packages, this more classic French crepe style uses less oil and is a little easier to make.
 

@@ -6,7 +6,7 @@ chef: "David Moyle"
 ---
 # [Roasted and raw brussel sprout salad with anchovy](https://www.thesaturdaypaper.com.au/food/salad/2019/08/31/roasted-and-raw-brussels-sprout-salad-with-anchovy/15659640008613)
 
-![[../assets/39606273dfb2f17d20243218755fec51.png]]
+![](../assets/39606273dfb2f17d20243218755fec51.png)
 
 ## Ingredients
 

@@ -7,7 +7,7 @@ cuisine:
 chef: "Nigella"
 ---
 # [Chocolate Pavlova](http://www.bent-street-kitchen.com/recipes-as-blog/2016/3/13/chocolatepav)
-![[../assets/7608b9985091b951bc9e9e3a5a3e1482.png]]
+![](../assets/7608b9985091b951bc9e9e3a5a3e1482.png)
 
 *Serves: 8-10*
 

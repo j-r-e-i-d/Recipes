@@ -8,7 +8,7 @@ chef: "Nigel Slater"
 tags: []
 ---
 # [Polenta, Mushrooms and Broccoli](https://www.theguardian.com/food/2020/mar/31/nigel-slater-midweek-meal-dinner-polenta-mushrooms-broccoli)
-![[assets/aabbdc0ce7854a4c2922a091f4670089.png]]
+![](assets/aabbdc0ce7854a4c2922a091f4670089.png)
 
 Choose a head of broccoli about 250g in weight. Slice off the florets and set aside, then cut the thin stems into short lengths. Discard the thick end of the stem.
 

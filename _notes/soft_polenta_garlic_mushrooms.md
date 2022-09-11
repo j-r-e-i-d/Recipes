@@ -7,7 +7,7 @@ chef: "Nigel Slater"
 tags: []
 ---
 # [Soft Polenta With Garlic Mushrooms](https://www.theguardian.com/food/2018/oct/22/nigel-slater-recipes-polenta-autumn)
-![[assets/29c8fb3e643f00ef1e76f3ce9bcf6af4.png]]
+![](assets/29c8fb3e643f00ef1e76f3ce9bcf6af4.png)
 
 Soft polenta, the sort embellished with butter and cream, belongs to the family of soupy, starchy nannying food that serves to soothe and sustain (I’m thinking dal, porridge and congee). The generous amount of cream, butter and cheese is not negotiable. They are the point of the recipe. You could easily substitute a vegetable stock should you prefer.
 

@@ -8,7 +8,7 @@ chef: "Karen Martini"
 ---
 # [Fried rice with mushrooms and cashews](https://www.goodfood.com.au/recipes/fried-rice-with-mushrooms-and-cashews-20220902-h263td)
 
-![[../assets/a18f4c5dac49b35060217cf7760661ed.png]]
+![](../assets/a18f4c5dac49b35060217cf7760661ed.png)
 
 This is fried rice as a delicious and sustaining stand-alone meal. You can use white rice, but brown rice has a hearty, nuttier texture that I find irresistible. Serve with chopped chilli or fermented hot sauce on the side.
 

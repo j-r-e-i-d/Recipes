@@ -8,7 +8,7 @@ tags: []
 ---
 # [Peanut Butter Miso Chicken Noodle Stir-Fry](https://www.goodfood.com.au/recipes/slurpy-peanut-butter-miso-chicken-noodle-stirfry-20220621-h24l12)
 
-![[../assets/f6904024adf3f1ddaf3eb864145677e6.png]]
+![](../assets/f6904024adf3f1ddaf3eb864145677e6.png)
 
 **Serves:** 4
 

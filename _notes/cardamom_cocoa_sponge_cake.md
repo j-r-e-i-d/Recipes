@@ -7,7 +7,7 @@ chef: "O Tama Carey"
 ---
 # [Cardamom and cocoa sponge cake](https://www.thesaturdaypaper.com.au/food/baking/2022/07/31/cardamom-and-cocoa-sponge-cake)
 
-![[../assets/f6f2953dd2ef824e225abb9a4c43d20c.png]]
+![](../assets/f6f2953dd2ef824e225abb9a4c43d20c.png)
 
 **Ingredients**
 

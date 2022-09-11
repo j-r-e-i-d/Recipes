@@ -8,7 +8,7 @@ chef: "Adam Liaw"
 tags: [vegetarian]
 ---
 # [Mushroom, Spinach and Zucchini Frittata](https://www.goodfood.com.au/recipes/mushroom-spinach-and-zucchini-frittata-20220321-h22jqm)
-![[../assets/0447f0673db07803c00168554670f4a0.png]]
+![](../assets/0447f0673db07803c00168554670f4a0.png)
 
 ## Ingredients
 

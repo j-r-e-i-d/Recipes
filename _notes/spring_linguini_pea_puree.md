@@ -8,7 +8,7 @@ alias: "Spring linguini on pea purée"
 ---
 # [Spring linguini on pea purée](https://www.thesaturdaypaper.com.au/food/dinner/2018/10/31/spring-linguini-pea-puree/15405588007036)
 
-![[../assets/5c0ad99c4e45183cd554f3b925321354.png]]
+![](../assets/5c0ad99c4e45183cd554f3b925321354.png)
 
 This spring linguini is a beautiful dish that can spin on a five-cent piece to cater for all. The recipe is for a vegan bowl of pasta. But if you eat dairy, it is delightful with fetta or parmesan. If you eat meat, it is delicious with crisp chards of prosciutto. And if you are coeliac, replace the pasta with some beautiful green leaves, omit the croutes and have a spring salad that is along the same theme as everybody else’s pasta. And you can orchestrate all of that as you are plating up, just like I do at the kitchen bench as I work through my customer base that is vegan, vegetarian, pregnant, FODMAP, coeliac, no onion/garlic, no nuts, no dairy…
 
