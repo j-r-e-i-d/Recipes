@@ -4,12 +4,13 @@ collection: [dinner]
 cuisine: "French"
 chef: "Adam Liaw"
 tags: []
+alias: "Chicken drumsticks with porcini and chardonnay"
 ---
 # [Chicken drumsticks with porcini and chardonnay](Chicken drumsticks with porcini and chardonnay)
 
 This is a simplified version of the classic French poulet au vin jaune. Drumsticks braised in porcini stock, mushrooms and chardonnay. It’s spiked with a little brandy too, and finished with cream. Truly delicious.
 
-[![](https://adamliaw.com/app/uploads/2021/04/LLAL009-Chicken-with-porcini-and-chardonnay.jpg)](https://adamliaw.com/app/uploads/2021/04/LLAL009-Chicken-with-porcini-and-chardonnay.jpg)
+[![Chicken drumsticks with porcini and chardonnay](https://adamliaw.com/app/uploads/2021/04/LLAL009-Chicken-with-porcini-and-chardonnay.jpg)](https://adamliaw.com/app/uploads/2021/04/LLAL009-Chicken-with-porcini-and-chardonnay.jpg)
 
 Serves 4
 
