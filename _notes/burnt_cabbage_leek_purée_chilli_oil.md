@@ -9,7 +9,7 @@ alias: "Burnt Cabbage Leek Purée Chilli Oil"
 # [Burnt Cabbage, Leek Purée, Chilli Oil](https://10play.com.au/masterchef/recipes/burnt-cabbage-leek-puree-chilli-oil/r220330bmzke)
 
 
-![[../assets/9518fcc2703b1f4a7b989378849412d9.png]]
+![Burnt cabbage, leek puree & chilli oil](../assets/9518fcc2703b1f4a7b989378849412d9.png)
 
 ## Ingredients
 
